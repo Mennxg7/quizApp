@@ -35,8 +35,9 @@ judge_count = sum(1 for q in judge_questions if q['qtype'] == 'judge')
 
 st.sidebar.markdown("### 题库信息")
 st.sidebar.write(f"题目总数: {total}")
-st.sidebar.write(f"单选: {single_count}，\n多选: {multi_count}，\n判断:{judge_count}")
-
+st.sidebar.write(f"单选: {single_count}")
+st.sidebar.write(f"多选: {multi_count}")
+st.sidebar.write(f"判断:{judge_count}")
 # 选择与启动
 qtype = st.selectbox("选择题型", ["全部", "单选", "多选", "判断题"])
 
