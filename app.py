@@ -44,7 +44,7 @@ qtype = st.selectbox("选择题型", ["全部", "单选", "多选", "判断题"]
 count = st.number_input("题数", min_value=1, max_value=total, value=min(20, total))
 shuffle = st.checkbox("打乱顺序", value=True)
 
-if st.button("开始刷题"):
+if st.button("BEGIN"):
     # if qtype == "单选":
     #     pool = [q for q in questions if q['qtype'] == 'single']
     # elif qtype == "多选":
