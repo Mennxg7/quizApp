@@ -51,9 +51,9 @@ if 'pool' in st.session_state and st.session_state.get('index',0) < len(st.sessi
     choices = list(opts.keys())
     choices.sort()
     if q['qtype'] == 'multiple':
-        selected = st.multiselect("请选择（多选）", options=choices, format_func=lambda x: f\"{x}. {opts[x]}\")
+        selected = st.multiselect("请选择（多选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
     else:
-        selected = st.radio("请选择（单选）", options=choices, format_func=lambda x: f\"{x}. {opts[x]}\")
+        selected = st.radio("请选择（单选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
     if st.button("提交/下一题"):
         user = ','.join(sorted([s.strip().upper() for s in selected])) if isinstance(selected, list) else (selected.strip().upper() if isinstance(selected, str) else '')
         corr = q.get('answer','').upper().replace('，',',')
