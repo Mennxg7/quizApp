@@ -36,13 +36,11 @@ if st.button("开始刷题"):
     if shuffle:
         random.shuffle(pool)
     pool = pool[:count]
-    # initialize session state
     st.session_state['pool'] = pool
     st.session_state['index'] = 0
     st.session_state['correct'] = 0
     st.session_state['history'] = []
 
-# quiz flow
 if 'pool' in st.session_state and st.session_state.get('index',0) < len(st.session_state['pool']):
     q = st.session_state['pool'][st.session_state['index']]
     st.write(f"**第 {st.session_state['index']+1} / {len(st.session_state['pool'])} 题**")
@@ -50,23 +48,25 @@ if 'pool' in st.session_state and st.session_state.get('index',0) < len(st.sessi
     opts = q.get('options', {})
     choices = list(opts.keys())
     choices.sort()
-    if q['qtype'] == 'multiple':
-        selected = st.multiselect("请选择（多选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
+    if not choices:
+        st.warning("本题没有选项数据，请检查题库。")
     else:
-        selected = st.radio("请选择（单选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
-    if st.button("提交/下一题"):
-        user = ','.join(sorted([s.strip().upper() for s in selected])) if isinstance(selected, list) else (selected.strip().upper() if isinstance(selected, str) else '')
-        corr = q.get('answer','').upper().replace('，',',')
-        user_set = set([x for x in user.split(',') if x])
-        corr_set = set([x for x in corr.split(',') if x])
-        is_correct = user_set == corr_set
-        if is_correct:
-            st.session_state['correct'] += 1
-        st.session_state['history'].append({'id': q['id'], 'question': q['question'], 'user': user, 'correct': corr, 'is_correct': is_correct})
-        st.session_state['index'] += 1
-        st.experimental_rerun()
+        if q['qtype'] == 'multiple':
+            selected = st.multiselect("请选择（多选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
+        else:
+            selected = st.radio("请选择（单选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
+        if st.button("提交/下一题"):
+            user = ','.join(sorted([s.strip().upper() for s in selected])) if isinstance(selected, list) else (selected.strip().upper() if isinstance(selected, str) else '')
+            corr = q.get('answer','').upper().replace('，',',')
+            user_set = set([x for x in user.split(',') if x])
+            corr_set = set([x for x in corr.split(',') if x])
+            is_correct = user_set == corr_set
+            if is_correct:
+                st.session_state['correct'] += 1
+            st.session_state['history'].append({'id': q['id'], 'question': q['question'], 'user': user, 'correct': corr, 'is_correct': is_correct})
+            st.session_state['index'] += 1
+            st.experimental_rerun()
 
-# show results
 if 'pool' in st.session_state and st.session_state.get('index',0) >= len(st.session_state['pool']):
     st.success("已完成全部题目！")
     correct = st.session_state.get('correct',0)
@@ -77,9 +77,8 @@ if 'pool' in st.session_state and st.session_state.get('index',0) >= len(st.sess
     for i, h in enumerate(st.session_state.get('history',[])):
         mark = '✔' if h['is_correct'] else '✖'
         st.write(f"{i+1}. {h['question']}    你的答案: {h['user']}    正确: {h['correct']}    {mark}")
-    if st.button("Again !"):
-        del st.session_state['pool']
-        del st.session_state['index']
-        del st.session_state['correct']
-        del st.session_state['history']
+    if st.button("再来一轮"):
+        for key in ['pool','index','correct','history']:
+            if key in st.session_state:
+                del st.session_state[key]
         st.experimental_rerun()
