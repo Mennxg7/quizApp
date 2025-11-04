@@ -16,8 +16,8 @@ JUDGE_FILE = os.path.join(BASE_DIR, "judge_questions.json")
 
 @st.cache_data
 def load_judge():
-    if not os.path.exists(JUDGE_FILE):
-        return []
+    # if not os.path.exists(JUDGE_FILE):
+    #     return []
     with open(JUDGE_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
