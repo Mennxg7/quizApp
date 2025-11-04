@@ -12,7 +12,7 @@ def load_questions():
 questions = load_questions()
 
 st.set_page_config(page_title="刷题系统", layout="centered")
-st.title("刷题系统（Streamlit 版本）")
+st.title("开始刷题吧")
 
 # 侧边栏信息
 total = len(questions)
