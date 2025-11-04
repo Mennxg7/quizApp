@@ -25,17 +25,17 @@ judge_questions = load_judge()
 
 
 st.set_page_config(page_title="刷题系统", layout="centered")
-st.title("开始刷题吧")
+st.title("开始刷题 !")
 
 # 侧边栏信息
-total = len(questions)
+total = len(questions)+len(judge_questions)
 single_count = sum(1 for q in questions if q['qtype'] == 'single')
 multi_count = sum(1 for q in questions if q['qtype'] == 'multiple')
 judge_count = sum(1 for q in judge_questions if q['qtype'] == 'judge')
 
 st.sidebar.markdown("### 题库信息")
-# st.sidebar.write(f"题目总数: {total}")
-st.sidebar.write(f"单选: {single_count}，多选: {multi_count}，判断:{judge_count}")
+st.sidebar.write(f"题目总数: {total}")
+st.sidebar.write(f"单选: {single_count}，\n多选: {multi_count}，\n判断:{judge_count}")
 
 # 选择与启动
 qtype = st.selectbox("选择题型", ["全部", "单选", "多选", "判断题"])
