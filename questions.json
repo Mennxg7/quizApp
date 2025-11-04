@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "question": "职业道德的出发点和归宿是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "在中国，随着新能源的快速发展，电力调度运行机制主要因为\n()而需要优化调整。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "按照《关于建立煤电容量电价机制的通知》规定，各地煤电容量\n电费纳入系统运行费用，每月由()按当月用电量比例分摊。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "在变电站的一次系统中，()不属于母线设备。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "question": "在电力系统中，二次系统主要负责监控、控制和保护，并与一次\n系统进行通信。以下()功能不由二次系统直接负责。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "电力系统运行具有()得特点。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "我国电网()电压等级不再广泛使用。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "在某电力系统中，为了确保稳定和高效的运行，电力调度中心需\n要精确计算各种负荷。假设在某一特定时刻，系统的用电负荷为\n800MW,线路损耗为50MW,发电厂的厂用电负荷为30MW。\n据此可计算，供电负荷为(),发电负荷()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "以下关于变压器的功率损耗和电压降落不正确的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "劳动的边际产量和产量的边际成本的关系是()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "电力市场运行基本规则(国家发展改革委2024年第20号令)的\n施行时间是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "在电力传输过程中，为了减少电能损耗，()是最有效的方法。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "以下关于节点导纳矩阵的形成不正确的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "电力系统静态安全性是指电力系统在正常运行状态以及遭遇非极\n端扰动时，能否保持其()以外的电气量在技术规范或安全限制\n内 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "question": "以下对周期失步描述错误的是():",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "question": "关于静态安全问题的分类正确的是()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "以下()不是电力调度控制系统分层级划分的划分方式。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 18,
+    "question": "某工商业用户，自行投资建设500kWh的储能设备，投资单价在2\n元/Wh。该用户高峰用电价格为1.3元/kWh.低谷用电价格为0.3\n元/kWh。按照每天一充一放测算，不考虑充放电衰减和损耗。\n该投资几年一定可以收回成本()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "某工商业用户用户高峰用电价格为1.3元/kWh.低谷用电价格为\n0.3元/kWh。该用户拟投资储能设备，并按照每天一充一放测算\n收益。现不考虑充放电衰减和损耗。如需五年内收回成本，则投\n资单价不能超过()元/kWh",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "根据《关于规范天然气发电上网电价管理有关问题的通知》,天\n然气发电上网电价最高不得比当地燃煤发电上网标杆电价或当地\n电网企业平均购电价格高出()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "根据规定，选择执行需量电价计费方式的两部制用户，每月每千\n伏安用电量达到()及以上的，当月需量电价按核定标准90%\n执行。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "question": "用电容量在100千伏安及以下的，执行单一制电价；100千伏安\n以上的()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "绿电交易制度对新能源消纳的核心影响是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "绿电交易机制对用户交易渠道的主要影响是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "电力现货市场出清是基于()定价。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 26,
+    "question": "目前在我国，根据《关于深化电力现货市场建设试点工作的意见\n》(发改办能源规(2019)828号)的界定，现货市场主要开\n展()的电能量交易。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "发电厂商的成本可以分为容量成本和()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "边际出清价格机制是以最后一台满足()的机组报价为基准，将\n其作为边际价格与所有中标机组进行结算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "question": "在完全竞争市场中，每一个消费者或生产者都是既定市场价格的\n接受者，并且，生产厂商在长期市场均衡中经济利润为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "question": "在9号文配套文件《关于推进电力市场建设的实施意见》中简化\n为中长期交易和现货交易，将月内至运行日前()天的电力交\n易归为中长期交易。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 31,
+    "question": "在国际电力市场实践中，电力日前交易是指在电网调度执行前一\n天开展的针对次日(或48)个时段的电力交易，每个交易时段\n为 ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "question": "分散式电力市场主要以()为基础，发、用电双方在日前阶段自\n主确定次日发用电曲线，偏差电量则通过日前、日内、实时平衡\n交易进行调节的电力市场模式。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "question": "下列关于合约市场的说法，不正确的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 34,
+    "question": "()主要反映发电厂的固定成本，与发电厂类型、投资费用、\n还贷利率和折旧方式等相关。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "question": "电力现货市场技术支持系统的第三方检验应对系统的哪部分功能\n进行校核()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "question": "售电公司参与现货交易的第一个门槛是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 37,
+    "question": "负荷预测按周期分类不包括哪项()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "question": "以下哪类商品无法进行互换交易()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "question": "交易员对市场进行技术面分析时不需要考虑()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "question": "以下不属于与电力现货市场技术支持系统存在数据交互的相关外\n部系统的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 41,
+    "question": "市场运营机构应当建立(),对关键岗位从业人员与市场主体利\n益相关方实施回避。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "question": "深度调峰交易每()出清一次，辅助服务市场技术支持系统依据\n各发电机组深度调峰交易的执行结果进行清算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "question": "一般来说，一昼夜之内，会出现()尖峰负荷，深夜则为用电最\n少的低谷负荷(仅为尖峰负荷的50%—70%)时间。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "question": "发电用天然气需求波动(),工业天然气负荷随季节性需求波动\n非 常 ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "question": "基本调峰是指发电机组在规定的出力调整范围内，为了跟踪负荷\n的峰谷变化而有计划的、按照一定调节速度进行的发电机组出力\n调整所提供的服务，基本调峰的范围，一般是参考()确定。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 46,
+    "question": "新建、改(扩)建关口计量装置应在投运后()内，进行首次现场检验。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "question": "()是将分布式发电机组、可控负荷和分布式储能设施有机结\n合，通过配套的调控技术、通信技术实现各类分布式能源整合调\n控的载体，以作为一个特殊电厂参与电力市场和电网运行。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "question": "CR4是4个最大的企业占有某相关市场的份额，CR8是指最大的8\n个企业占有的市场份额，一般认为，如果产业集中度指数\nCR4<30或CR8<40,则该行业为()型。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "question": "“以积极稳妥、分阶段实施的建设原则，建立省间交易与省内交\n易相协调的市场架构”是()省电力现货市场试点实践提出的目\n标。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "question": "中国把每千克含热量()大卡的煤炭定为标准煤。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "question": "一般来说，进行大量的电量传输时，网损约占总发电量的()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "question": "黑启动服务的费用包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 53,
+    "question": "电网企业向交易机构提供现货(),交易机构向市场主体出具\n结算依据，市场主体与电网企业进行电费结算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "question": "在节能发电调度模式下，网路安全约束的机组组合的优化目标是\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "question": "根据《关于推进售电侧改革的实施意见》,在交易的结算过程\n中，电力交易机构的职责是什么?",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 56,
+    "question": "中长期交易对未来某一时期内交割电力产品或服务的交易，包含\n数年、年、月、周、多日等不同时间尺度。中长期交易合同包\n括 ( ) 和 ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "question": "社会主义道德体系的指导原则是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "question": "()属于电力行业因新能源技术发展产生的新工种。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "question": "劳模精神的特点包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "question": "()是经济周期对电力行业的主要影响。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "question": "信守合同，不言而无信不属于()的范畴。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D,E"
+  },
+  {
+    "id": 62,
+    "question": "新时代电力职工需要具备的精神包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,E"
+  },
+  {
+    "id": 63,
+    "question": "以下属于“按章作业，确保安全”要求的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,E"
+  },
+  {
+    "id": 64,
+    "question": "安全生产责任制的核心是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,E"
+  },
+  {
+    "id": 65,
+    "question": "电力企业需正确处理的关系不包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D,E"
+  },
+  {
+    "id": 66,
+    "question": "电力行业构建新型电力系统的目标包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 67,
+    "question": "中国电力市场主要交易周期包括()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 68,
+    "question": "双轨制不平衡资金风险防范手段有()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 69,
+    "question": "节点电价直接影响着市场主体的()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 70,
+    "question": "实时市场预出清中，各试点省根据最新的()信息开展省内实时\n市场预出清。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 71,
+    "question": "以下属于价格波动的防范手段的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 72,
+    "question": "电力商品与一般商品具有差异性，关于电力商品的特性，它具有\n()属性。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 73,
+    "question": "垄断竞争市场具有()特征。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 74,
+    "question": "关于日前电能量市场出清，下列正确的有()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 75,
+    "question": "不计及网损时，节点边际电价包括下列哪几个部分()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 76,
+    "question": "我国调频和备用辅助服务市场采用()模式。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 77,
+    "question": "交易员对市场进行分析并寻找交易机会时，其思路可以分为哪些\n学 派 ( ) 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 78,
+    "question": "现货市场包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 79,
+    "question": "在电力现货市场参与人员方面，模拟仿真系统可以由()参与。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 80,
+    "question": "以下属于网络约束的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 81,
+    "question": "在电力行业体制改革实施阶段，搁浅成本处理方法通常有()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 82,
+    "question": "()根据每个输电转运服务用户的功率对整体系统所带来的影响\n来承担网损，这种方法最大限度地保证分摊的公平合理。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,D"
+  },
+  {
+    "id": 83,
+    "question": "现货市场价格上下限主要采用以下()定价方法。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 84,
+    "question": "市场交易价格可以通过以下哪些方式确定()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 85,
+    "question": "计算基本电价的方法有()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 86,
+    "question": "电力市场引入竞争的主要做法是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 87,
+    "question": "现货电能量市场包括()和()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 88,
+    "question": "售电公司标准化建设是一项()的工作，需要不断完善、逐步推进",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 89,
+    "question": "售电公司可向用户提供()等增值服务，并收取相应费用",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 90,
+    "question": "“9号文”中关于推进电力体制改革的重点任务包括哪些?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 91,
+    "question": "根据《关于开展电力现货市场建设试点工作的通知》,试点方案\n应充分考虑相关配套机制，包括()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 92,
+    "question": "2018年放开()行业电力用户发用电计划，全电量参与交易，\n通过市场化交易满足用电需求，建立市场化价\n格形成机制。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 93,
+    "question": "根据《关于规范优先发电优先购电计划管理的通知》,编制优先\n发电计划要重点做好()方面工作。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 94,
+    "question": "电能结算包括()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 95,
+    "question": "电力批发市场是指()和()进行大宗电力交易的市场",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 96,
+    "question": "安全校核对检修计划、发电计划、市场出清结果和电网运行操作\n等内容，从电力系统运行安全角度分析其安全性的过程。分析\n方法包括()等",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 97,
+    "question": "市场数据申报是指市场主体按照现货市场的要求，在指定的时间\n范围内申报各类数据信息，包括()等",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 98,
+    "question": "根据《电力市场运营系统现货结算功能指南》,成本补偿包括\n()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 99,
+    "question": "根据《关于推进电力交易机构规范化建设的通知》,电力交易机\n构要规范开展信息披露工作，重点对信息披露()等进行规范，\n确保披露内容全面、准确、及时，以满足市场主体的交易需求",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 100,
+    "question": "2020年6月，国家发改委、国家能源局印发《电力中长期交易基\n本规则》,发电企业的权利和义务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 101,
+    "question": "2020年6月，国家发改委、国家能源局印发《电力中长期交易基\n本规则》,电力用户的权利和义务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 102,
+    "question": "2020年6月，国家发改委、国家能源局印发《电力中长期交易基\n本规则》,售电公司的权利和义务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 103,
+    "question": "2020年6月，国家发改委、国家能源局印发《电力中长期交易基\n本规则》,电网企业的权利和义务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 104,
+    "question": "2020年6月，国家发改委、国家能源局印发《电力中长期交易基\n本规则》,电力交易机构的权利和义务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 105,
+    "question": "售电公司应围绕()方面，提升业务拓展能力和水平。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 106,
+    "question": "售电公司应围绕()方面，提升品牌建设。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 107,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,售电公司关\n于强化业务拓展，下列做法正确的是()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 108,
+    "question": "《售电公司业务标准化(1.0版)指导意见》中指出，售电公司\n在()的同时，要不断加强制度、风控与信用体系建设，逐步培\n育市场化公司的竞争力与生命力，逐步实现自主经营、自负盈亏\n、自担风险、自我发展。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 109,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,以下属于”明\n晰职责、规范流程\"的重点行动项的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 110,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,以下属于”机\n构健全、职责明确\"的重点行动项的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 111,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,以下属于\"程\n序规范、经营合规\"的重点行动项的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 112,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,以下属于\"健\n全内控、信用建设”的重点行动项的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 113,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,售电公司应\n加强()等内控风险管理体系建设。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 114,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,售电公司准\n入与退出，坚持O的原则",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 115,
+    "question": "售电公司的类别有0",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 116,
+    "question": "广东省电力市场建设实施方案中提出的电力市场信用体系建设包\n括以下哪些手段(",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 117,
+    "question": "以下哪些属于电力市场主体0",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 118,
+    "question": "电力市场引入竞争的主要做法是0",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 119,
+    "question": "《电力中长期交易基本规则(暂行)》中关于优先发电电量和基\n数电量以下说法哪个是正确的()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,D"
+  },
+  {
+    "id": 120,
+    "question": "根据《关于推进售电侧改革的实施意见》,改革基本原则包括",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 121,
+    "question": "根据《关于推进售电侧改革的实施意见》,售电侧改革应与哪些\n方面协调推进?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 122,
+    "question": "可以进行双边交易的市场主体包括哪些()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 123,
+    "question": "市场交易价格可以通过哪些方式确定?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 124,
+    "question": "参与市场交易的用户购电价格由()组成",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 125,
+    "question": "在信息披露环节中，市场主体规定在那些网站上公示公司有关情\n况和信用承诺，",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 126,
+    "question": "对纳入涉电严重失信企业黑名单的售电公司及负有责任的法定代\n表人、自然人股东、其他相关人员(以下简称\"当事人\")采取惩\n戒措施有哪些?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 127,
+    "question": "根据《售电公司准入与退出管理办法(发改经体[2016]2120号)\n》,售电公司有下列情形之一的，应强制退出市场并注销注册：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 128,
+    "question": "为进一步加强对试点工作中营销业务方面的指导，电力营销中心\n编制了()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 129,
+    "question": "根据售电公司准入条件，需拥有()名及以上专业人员，掌握电\n力系统基本技术、经济专业知识，具备电能管理、节能管理、需\n求侧管理等能力，有()及以上工作经验。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 130,
+    "question": "拥有配电网运营权的售电公司增加与从事配电业务相适应的专业\n技术人员、营销人员、财务人员等，不少于()人，其中至少拥\n有()名高级职称和()名中级职称的专业管理人员",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 131,
+    "question": "拥有配电网运营权的售电公司的生产运行负责人、技术负责人、\n安全负责人应具有()以上与配电业务相适应的经历，具有中级\n及以上专业技术任职资格或者岗位培训合格证书",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 132,
+    "question": "接受注册后，电力交易机构要通过\"信用中国\"等政府指定网站，\n将售电公司满足准入条件的信息、材料和信用承诺书向社会公\n示，公示期为()",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 133,
+    "question": "公示期间存在异议的售电公司，可自愿提交补充材料并申请再次\n公示，经()公示仍存在异议的，由省级政府有关部门或能源监\n管机构核实处理",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "question": "电力交易机构按()汇总售电公司注册情况向能源监管机构、省\n级政府有关部门和政府引入的第三方征信机构备案，并通过\"信\n用中国\"网站和电力交易平台网站向社会公布",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 135,
+    "question": "根据山东、江苏和甘肃等地的电力市场规则，售电公司准入条件\n中要求，资产总额在()亿元人民币以上的，不限制其售电量",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "question": "广东电力市场交易基本规则的市场交易基本要求中，以下说法中\n错误的是()",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 137,
+    "question": "在交易的结算过程中，电力交易机构的职责是什么?",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 138,
+    "question": "根据《关于推进售电侧改革的实施意见》,鼓励以()方式发展\n配电业务",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 139,
+    "question": "根据《关于推进售电侧改革的实施意见》,资产总额在2千万元\n至1亿元人民币的，可以从事年售电量不超过()亿千瓦时的\n售电业务",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 140,
+    "question": "根据《关于推进售电侧改革的实施意见》,资产总额在()亿\n元人民币以上的，不限制其售电量",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "question": "根据《关于推进售电侧改革的实施意见》,拥有配电网经营权的\n售电公司其注册资本不低于其总资产的()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 142,
+    "question": "根据《关于推进售电侧改革的实施意见》,符合准入条件的市场\n主体应向()政府或由()政府授权的部门申请，并提交相关资\n料",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 143,
+    "question": "《中共中央国务院关于进一步深化电力体制改革的若干意见》\n(中发9号文)于()年提出",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 144,
+    "question": "根据《关于有序放开发用电计划的实施意见》,对水电比重大的\n地区，直接交易应区分()、()电量",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 145,
+    "question": "根据《关于有序放开发用电计划的通知》,优先发电计划()执\n行政府定价，()通过市场化方式形成价格",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 146,
+    "question": "根据《关于有序放开发用电计划的通知》,参与市场交易的电力\n用户不再执行目录电价。除优先购电、优先发电对应的电量外，\n发电企业其他上网电量价格主要由用户、售电主体与发电企业通\n过()、()等方式确定。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 147,
+    "question": "根据《能源生产和消费革命战略(2016-2030)》,我们必须牢固\n树立和贯彻落实新发展理念，适应把握引领经济发展新常态，坚\n持以推进供给侧结构性改革为主线，把()作为能源发展的国\n策，筑牢能源安全基石",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 148,
+    "question": "根据《关于全面深化价格机制改革的意见》,我国科学定价制度\n的核心是()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 149,
+    "question": "根据《关于全面深化价格机制改革的意见》,我国将实施风电、\n光伏等新能源标杆上网电价退坡机制，预计于()实现风电与燃\n煤发电上网电价相当、光伏上网电价与电网销售电价相当",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 150,
+    "question": "根据《关于提升电力系统调节能力的指导意见》,我国提出了\n2020年、2030年非化石能源消费比重分别达到()、()的目标",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 151,
+    "question": "根据《关于提升电力系统调节能力的指导意见》,我国将()风\n光功率预测考核，风电、光伏等发电机组()电力辅助服务管理",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 152,
+    "question": "根据《全面放开部分重点行业电力用户发用电计划实施方案》积\n极推进煤炭、钢铁、有色、建材等重点行业电力用户与发电企业\n及电网企业签订三方发购电合同，鼓励签订()年甚至更长期限\n的中长期合同，促进双方锁定经营风险，优化生产安排。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 153,
+    "question": "根据《关于进一步深化电力体制改革的若干意见》,颁布实施后\n核准的煤电机组，投产后一律纳入市场化交易，鼓励支持()特\n别是超低排放机组通过电力直接交易和科学调度多发电。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 154,
+    "question": "根据《关于完善跨省跨区电能交易价格形成机制有关问题的通知\n》,未进入市场交易的水电发电量，以机组前()年平均发电量\n为基础，根据发电空间等比例安排计划",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 155,
+    "question": "()结算用于描述中长期合同的分解与结算",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 156,
+    "question": "中长期交易对未来某一时期内交割电力产品或服务的交易，包含\n数年、年、月、周、多日等不同时间尺度。中长期交易合同包括\n( ) 和 ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 157,
+    "question": "集中式现货市场环境下，中长期交易的作用不包括()",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 158,
+    "question": "节点电价是()成本",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 159,
+    "question": "关于电力现货市场说法错误的是()",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 160,
+    "question": "现货电能量市场采用()机制定价",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 161,
+    "question": "批发用户在电力市场交易系统中申报其运行日的(),即运行日\n每小时内的平均用电负荷",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 162,
+    "question": "现货实时市场用户侧价格以()为单位计算发布",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 163,
+    "question": "对于双边协商交易，交易日是指()双边协商交易合同的日历日",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 164,
+    "question": "差价合约的主要特点不包括()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 165,
+    "question": "《关于做好2021年电力中长期合同签订工作的通知》中鼓励2021\n年年度及以上中长期合同签订工作目标，力争签约电量不低于前\n三年用电量平均值的(),并通过后续月度合同签订保障中长期\n合同签约电量不低于前三年用电量平均值()",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 166,
+    "question": "《关于做好2021年电力中长期合同签订工作的通知》中明确对具\n备条件的、年购电量()万千瓦时以上的电力用户及售电公司，\n鼓励签订分时段电力中长期合同",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 167,
+    "question": "《关于做好2021年电力中长期合同签订工作的通知》中要求各地\n可结合市场规则，对()以上长期交易合同予以优先安排、优先\n组织落实、优先执行。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 168,
+    "question": "《关于进一步做好电力现货市场建设试点工作的通知》要求第二\n批现货试点要做好本地市场与省间市场的衔接，符合市场化条件\n的跨省跨区送电量，存量按照每年不少于()的比例放开",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 169,
+    "question": "《关于做好电力现货市场试点连续试结算相关工作的通知》文件\n指出要加强市场力风险防范，探索市场力的()监控机制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "question": "2020年国家能源局印发《电力现货市场信息披露办法(暂行)\n》,办法指出()总体负责电力现货市场信息披露的实施",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 171,
+    "question": "信息的封存期限为()年",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 172,
+    "question": "2020年6月，国家发改委、国家能源局印发《电力中长期交易基本\n规则》,规则中明确已经选择市场化交易的发电企业和电力用\n户，原则上不得自行退出市场。除了下列情形(),其他均可办\n理正常退市手续",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 173,
+    "question": "根据《关于核定部分跨省跨区专项工程输电价格有关问题的通知\n》,对跨省跨区专项输电工程超过设计利用小时的超收收入按照\n()的比例分别由送端、电网和受端分享",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 174,
+    "question": "根据《关于核定部分跨省跨区专项工程输电价格有关问题的通知\n》提出各项工程实际运行中输电线损率超过定价线损率带来的风\n险由电网企业承担，低于定价线损率带来的收益由电网企业和电\n力用户各分享()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "question": "根据《关于核定部分跨省跨区专项工程输电价格有关问题的通知\n》,跨省跨区专项输电工程降价形成的资金在送电方、受电方之\n间按照()比例分享。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 176,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,关于售电公\n司规范管控体系，下列说法正确的是()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 177,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,关于售电公\n司着力品牌建设，下列说法正确的是(",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 178,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,以下属于\"健\n全制度、执行有效\"的重点行动项的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 179,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,以下属于”规\n划清晰、建设平台”的重点行动项的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 180,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,以下属于”定\n制服务、渠道管控\"的重点行动项的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 181,
+    "question": "按照《售电公司业务标准化(1.0版)指导意见》,以下属于强\n化业务拓展的标准要点的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 182,
+    "question": "以下有关集中竞价交易策略的描述中，错误的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 183,
+    "question": "现货市场价格波动风险管控措施不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 184,
+    "question": "不考虑网损，随着平衡节点的变化，两节点间的阻塞成本将()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 185,
+    "question": "下列阻塞费用及其分摊的描述中，不正确的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 186,
+    "question": "下列不属于影响电力现货市场出清价格的因素是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 187,
+    "question": "阻塞电价是()的重要组成部分，其数值等于输电线路限额放宽\n一个单位带来的社会效益。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 188,
+    "question": "现货市场主要利用()负荷预测，用于支撑出清计算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 189,
+    "question": "省间电力现货市场成员包括()、电网企业、售电公司、电力用\n户及市场运营机构。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 190,
+    "question": "电力现货市场系统关键业务数据从源端通过隔离缓冲区采取()\n方式传递到安全Ⅱ区的业务系统。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 191,
+    "question": "当前我国以()为单位试点开展电力现货市场建设。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 192,
+    "question": "电力现货市场结算试运行阶段，将依据市场出清结果()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 193,
+    "question": "电力现货市场技术支持系统需要从市场交易平台获取的数据是\n()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 194,
+    "question": "我国第一个转为正式运行的省级现货市场是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 195,
+    "question": "我国省间现货市场的雏形是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 196,
+    "question": "可通过()等手段，推动调峰市场与现货市场逐步融合。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 197,
+    "question": "()是通过提高发电报价并对市场价格产生一定操控力的行为。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 198,
+    "question": "()是市场成员申报的最大供给量之和与需求量之和的比值。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 199,
+    "question": "市场环境下各市场主体仍然要坚持()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 200,
+    "question": "市场环境下应统筹考虑检修安排的()、经济性、规范性。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 201,
+    "question": "()指的是双方当事人在合同中订立的，事先通过约定来限制或\n者免除其未来关于与此合同相关的责任的条款。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 202,
+    "question": "()是指扣除某个发电厂商的容量后，其他发电厂商提供的发电\n容量与市场总需求的百分比。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 203,
+    "question": "我国现货市场建设以()为单位开展。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 204,
+    "question": "电力现货市场运营组织的关键环节包括信息发布、交易申报、\n()、安全校核、出清结果发布、交易结果执行、交易结算等。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 205,
+    "question": "我国调峰市场经历了无偿提供、0、市场化探索阶段。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 206,
+    "question": "我国调峰辅助服务包括(0、启停调峰、跨省跨区调峰等类型",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 207,
+    "question": "与现货市场建设相对应，输配电价逐步过渡到按0的原则，分电压等级核定。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 208,
+    "question": "为解决现货市场下长期容量充裕度问题，可配套建立(、稀缺定价\n、容量市场等机制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 209,
+    "question": "0指标是通过判断发电商缓解某条输电线路阻塞的影响因子，从而\n评估该机组/厂商是否定为必运行机组而进行价格管制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 210,
+    "question": "不适合通过辅助服务市场采购的辅助服务是0",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 211,
+    "question": "系统的负荷变化具有三种规律，其中，变化幅度很小，变化周期极短\n的负荷分量通过0来控制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 212,
+    "question": "市场主体由于提供辅助服务，需根据辅助服务市场的中标情况对\n相应的电力容量、调节速率等能力进行预留，而导致市场主体在\n电力现货市场等电能量市场中的收益产生的潜在损失是0。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 213,
+    "question": "我国的无偿提供方式的辅助服务品种一般包括：()、一次调频、基\n本调峰、基本无功调节。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 214,
+    "question": "仅适合在较长时间尺度开展的辅助服务为0。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 215,
+    "question": "0负责辅助服务市场主体的注册、管理与注销等业务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 216,
+    "question": "市场模式下，0根据按需对中标主体进行调用的原则对辅助服务资\n源进行调用。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 217,
+    "question": "0指由发电机的调频器进行的，对系统当中变动幅度大，周期较长的\n负荷变动引起的频率偏移的调整。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 218,
+    "question": "0负责编制省间联络线计划，完成大区联络线计划的省间二次分配，\n确保省间计划和交易执行，确保直调电厂计划的合理性。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 219,
+    "question": "备用辅助服务市场采用集中出清时，定价机制为0。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 220,
+    "question": "可采用0来应对高比例可再生能源发电下的系统净负荷的快速变\n化情况，综合考虑预期的净负荷变化和预期之外不确定性的净负\n荷变化。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 221,
+    "question": "0是国内首家开启爬坡辅助服务市场运行的省级电力现货市场。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 222,
+    "question": "0辅助服务功能可以考虑被现货电能市场所涵盖。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 223,
+    "question": "辅助服务需求的计算方一般为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 224,
+    "question": "深调峰市场一般采用()定价。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 225,
+    "question": "非事故条件下调用的备用应包含10分钟与()分钟备用。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 226,
+    "question": "负荷备用的确定，我国采用最大负荷的2%,低值适于(),高\n值适于()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 227,
+    "question": "电能与备用独立运营的缺点是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 228,
+    "question": "辅助服务市场的发展建设与()市场的发展建设是相辅相成、紧密相关。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 229,
+    "question": "我国多层次市场协调运行，优先在()范围内进行供需平衡。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 230,
+    "question": "我国多层次全国统一电力市场体系的核心框架是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 231,
+    "question": "0属于电能量和备用范畴。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 232,
+    "question": "发电厂商参与竞价的形式不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 233,
+    "question": "我国电力现货市场起步阶段基本采取了逐步扩大市场化用户参与\n现货电能量市场的规模的建设路径，一般按照用户的()、用户\n类型以及年度用电量进行划分。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 234,
+    "question": "现货市场中，需求响应资源可根据自身调节特性自主调节或接受\n调度指令，通过对()的响应实现削峰填谷、追踪可再生能源出\n力、为系统提供调频辅助服务等功能。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 235,
+    "question": "负荷侧采用()才能把现货市场价格信号充分传导给用户，激励\n不同位置的市场主体采取不同的运营策略提高市场效益。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 236,
+    "question": "需求响应资源参与调频市场，基于()来对不同的调频资源进行\n补偿。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 237,
+    "question": "全电量竞价模式的特点在于发电侧市场主体所发电量全部参与现\n货市场竞价，()、优先发电和基数电量以差价合约的方式结算\no",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 238,
+    "question": "我国发电侧参与现货市场报价形式不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 239,
+    "question": "我国发电侧主体参与现货市场报价形式不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 240,
+    "question": "理想情况下，市场各参与者的最佳竞价策略是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 241,
+    "question": "需求侧资源可以以()的方式聚合代理参与电能量市场。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 242,
+    "question": "()是指在用户所在场地或附近建设安装、运行方式以用户侧\n自发自用为主、多余电量上网的的能源综合梯级利用多联供设施\n○",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 243,
+    "question": "可再生能源发电全额保障性收购制度中，保障利用小时内的可再\n生能源发电执行(),超出保障利用小时数的可再生能源发电开\n展市场化交易的机制定价。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 244,
+    "question": "电力现货交易价格机制有按各市场主体的报价结算和按照()\n结算两种。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 245,
+    "question": "受限于通道容量约束，受端节点用户需要购买价格更高的节点电\n量，送、受两端节点电价之差为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 246,
+    "question": "现货交易中首先省内形成(),再开展省间日前现货，省间交易结\n果作为省内交易的边界。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 247,
+    "question": "省间电力现货交易结果纳入跨省区联络线计划，作为()的运行\n边界，原则上不跟随市场主体的实际发用电而变化。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 248,
+    "question": "集中竞价是指在买卖双方申报购售报价基础上，考虑输电电价和\n网损，将购电方申报电价和电力折算到售电方，采用买卖报价对(\n)的方式进行竞价出清的过程。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 249,
+    "question": "国家电力调度控制中心负责包含省间现货交易的跨区联络线计划\n和 ( ) 的 编 制 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 250,
+    "question": "省间电力现货的交易品种为卖方发电企业与买方电网企业、售电\n公司、电力用户之间进行的()",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 251,
+    "question": "在省间电力现货交易中， 一般情况下1个()为1个交易节点。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 252,
+    "question": "省间交易网络由交易节点、()和省内重要输电通道共同组成\n\n。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 253,
+    "question": "任意一对卖方、买方节点间可选择多条交易路径开展交易，优先\n选择节点间()最低的交易路径开展交易。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 254,
+    "question": "()市场主体在所在节点申报分时“电力-价格”曲线，考虑所有交\n易路径的输电价格和输电网损后，逐一折算到()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 255,
+    "question": "卖方节点最后一笔成交交易对中买方折算后价格与卖方申报价格\n的()为该卖方节点的出清价格。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 256,
+    "question": "交易节点内部可再生能源富余时，节点内部()不得在省间电力\n现货交易中买入电能。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 257,
+    "question": "市场运营机构按()组织省间日前现货交易。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 258,
+    "question": "省间电力现货市场中网损率按()核定标准或备案标准执行。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 259,
+    "question": "国调中心()日编制D日96时段直调系统发输电预计划",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 260,
+    "question": "()D-2日编制D日96时段调管范围内省间联络线及直调机组发\n输电预计划。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 261,
+    "question": "省内现货市场运行期间，相应省调在D-1日开展D日96时段()\no",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 262,
+    "question": "()负责披露检修计划、电网安全约束等省间日前现货交易所需\n相关信息。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 263,
+    "question": "省内市场主体通过电力交易平台()功能申报分时“电力-价格”曲线。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 264,
+    "question": "火电和核电发电企业申报电力不得超过其()与预出清(预计划)之差。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 265,
+    "question": "将买方市场主体在买方节点申报的电力和价格按照所有(),折\n算到卖方节点",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 266,
+    "question": "安全校核未通过时，按照()由高到低顺序，取消相关省间电力\n现货交易，消除设备越限，出清边际电价不变。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 267,
+    "question": "现货试点地区现货市场运行期间，省间电力现货交易卖方成交结\n果作为送端关口()增量参与省内出清。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 268,
+    "question": "省内现货市场运行时，省内发电企业实际发电出力低于省间电力\n现货交易电力时，省间电力现货交易电力不变，少发电能按照\n()市场价格向省内其他发电企业购买。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 269,
+    "question": "省间电力现货()作为省间电力现货交易结算依据。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 270,
+    "question": "市场信息通过()平台披露。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 271,
+    "question": "()综合省间现货、区域辅助服务、省级现货的出清结果，进行\n交流同步网的安全校核，形成物理执行的调度计划。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 272,
+    "question": "政府按照“准许总收入=准许成本+()+现金”方法先核定电网企\n业输配电业务的准许收入",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 273,
+    "question": "节点电价反映了节点的()",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 274,
+    "question": "我国省级输配电价按照()制定?",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 275,
+    "question": "容量市场以()为交易标的，是一种采用市场的方式进行容量补\n偿的机制，使可靠的发电机组或等同的需求响应负荷能够获得在\n不确定性较高的能量市场和辅助服务市场以外的稳定经济收入，\n从而鼓励机组建设",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 276,
+    "question": "虚拟电厂是将()、可控负荷和分布式储能设施有机结合",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 277,
+    "question": "电力辅助服务是指为维护电力系统安全稳定运行，保证(),促\n进清洁能源消纳，向系统提供的辅助性调节服务",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 278,
+    "question": "()是指电力系统频率偏离目标频率时，并网主体通过调速系统\n、自动功率控制等方式，调整有功出力，减少频率偏差所提供的\n服务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 279,
+    "question": "()服务是指并网主体为跟踪系统负荷的峰谷变化及可再生能源\n出力变化，所提供的发用电功率调整或设备启停服务",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 280,
+    "question": "()是指电力系统大面积停电后，在无外界电源支持的情况下，\n由具备自启动能力的发电机组或抽水蓄能等所提供的恢复系统供\n电的服务",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 281,
+    "question": "完整的电力市场体系应包括()辅助服务市场、容量市场和输电\n权市场等细分子市场",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 282,
+    "question": "以下哪项不是全国统一能源市场的组成部分()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 283,
+    "question": "关于电力现货市场与电力辅助服务市场的关联关系描述错误的是\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 284,
+    "question": "截止2025年4月底，关于南方区域电力市场建设运营现状描述正\n确 的 是 ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 285,
+    "question": "辅助服务市场首次结算试运行和正式运行的时间间隔不小于()\n年。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 286,
+    "question": "()负责编制风险处置预案，包括风险级别、处置措施、各方职\n责等内容，并滚动修编。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 287,
+    "question": "由于计量、电价差错等原因需要进行追退补的，由市场运营机构\n在()内完成电力辅助服务费用追退补工作。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 288,
+    "question": "电力市场的建设发展预期可以解决以下问题()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 289,
+    "question": "电力市场形成的价格信号可以()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 290,
+    "question": "新能源发电的环境价值可以通过()兑现。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 291,
+    "question": "日前市场出清的核心功能包括()、市场出清异常处置，日前市\n场结果管理。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 292,
+    "question": "电力现货市场的月结算环节，需要对()进行叠加结算。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 293,
+    "question": "我国分布式光伏上网可采用()和()方式。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 294,
+    "question": "电网企业输配电价需要由政府价格主管成本监审后进行核定，电\n网企业输配电定价成本主要包括()和()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 295,
+    "question": "根据国家发改委、国家能源局《电力现货市场基本规则(试行)\n》有关要求，市场限价设定应考虑经济社会承受能力，有利于市\n场发现价格，现货市场应设定()和()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 296,
+    "question": "下列哪项属于有功平衡类辅助服务品种()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 297,
+    "question": "关于辅助服务市场建设发展趋势，描述正确的是()?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 298,
+    "question": "关于现货市场建设发展趋势，描述正确的是()?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 299,
+    "question": "关于电力现货市场技术支持系统面临的挑战，描述正确的是(\n)?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 300,
+    "question": "关于我国电力市场建设面临的现实国情说法正确的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 301,
+    "question": "2017年，国家发展改革委、国家能源局确定的第一批现货试点单\n位 包 括 ( ) 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,E"
+  },
+  {
+    "id": 302,
+    "question": "2021年，国家发展改革委、国家能源局确定的第二批现货试点单\n位 包 括 ( ) 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D,E"
+  },
+  {
+    "id": 303,
+    "question": "关于未来新能源参与市场方式，以下说法正确的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 304,
+    "question": "关于加强省间与省内市场衔接，以下说法正确的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 305,
+    "question": "电力现货市场应依序开展(),启动相关试运行和正式运行前按\n各省(区、市)/区域电力现货市场规则规定的程序开展相关市\n场运行工作。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 306,
+    "question": "电力现货市场是指符合准入条件的经营主体开展()电能量交易\n的市场。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 307,
+    "question": "按照《电力现货市场基本规则(试行)》(发改能源规【2023】\n1217号)中结算方式一，运行日前市场的省(区、市)/区域，\n发电侧主体电能量电费为()之和。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 308,
+    "question": "系统安全约束条件包括()等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 309,
+    "question": "根据时间不同，集中式模式下现货市场一般包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 310,
+    "question": "计量管理的目的是保证电能计量量值的(),确保电能计量装置\n运行安全可靠。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 311,
+    "question": "电力系统辅助服务的电压控制服务的作用为()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 312,
+    "question": "电力系统获取辅助服务的方式主要有()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 313,
+    "question": "分时电能量价格形成的关键是电力现货市场的出清价格，包括\n()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 314,
+    "question": "通常意义上，电力现货价格可以区分为()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 315,
+    "question": "电力交易机构总体负责电力现货市场信息披露的实施，并()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 316,
+    "question": "我国现阶段电力现货市场的作用和意义有()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 317,
+    "question": "我国当前电力现货市场中，电力现货市场中的市场成员包括()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 318,
+    "question": "我国省间现货市场包括()市场和()市场。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 319,
+    "question": "典型行使市场力操纵市场行为包括：()、()和()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 320,
+    "question": "以下哪些属于影响市场主体在现货市场中中标的因素?()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 321,
+    "question": "以下属于现货市场规则体系构成的是?()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 322,
+    "question": "以下属于现货市场应急处置场景的是?()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 323,
+    "question": "我国有功平衡服务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 324,
+    "question": "事故应急及恢复服务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 325,
+    "question": "()能够提供优质的调频、旋转备用、无功和电压控制等辅助\n服务。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 326,
+    "question": "辅助服务市场建设的空间维度包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 327,
+    "question": "电力辅助服务市场的交易标的物需要明确()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 328,
+    "question": "备用按用途分类可以分为()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 329,
+    "question": "省间市场从时间尺度上包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 330,
+    "question": "省间现货市场中卖方主体包括()等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 331,
+    "question": "省间现货市场出清时需要考虑输电网络的()和()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 332,
+    "question": "省级调度机构负责组织()参与省间电力现货交易。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 333,
+    "question": "市场主体有()情形的，相关政府主管部门根据职能组织调查确\n认，提出警告，勒令整改。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 334,
+    "question": "D-2日14:00-15:30,国调中心基于跨区中长期交易结果，考虑电网\n安全运行需要，编制并下发()及()D日96时段预计。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 335,
+    "question": "()向市场成员提供省间电力现货交易结算依据。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 336,
+    "question": "以下属于风险干预措施的是()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 337,
+    "question": "按其交易标的不同，辅助服务市场可覆盖()等市场。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 338,
+    "question": "关于区域电力市场的形态与作用，描述正确的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 339,
+    "question": "辅助服务市场设立新品种时，市场运营机构应当依序开展()、\n()、()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 340,
+    "question": "辅助服务市场风险类型包括()、()、()、()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 341,
+    "question": "以下属于辅助服务的有()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 342,
+    "question": "辅助服务的供应由电力系统需要决定，决定因素有电力系统协调\n方式、()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 343,
+    "question": "我国《电力市场结算关系工作指引》对不平衡费用处理给出的基\n本原则是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 344,
+    "question": "火电启停调峰交易通常按照启停的()和()进行补偿。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 345,
+    "question": "各单位要建立市场交易风险防范机制，制订相应的风险识别、风\n险防范、应急处置和决策机制。重点控制交易风险的措施不包\n括 ：  ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 346,
+    "question": "电力市场在空间维度上呈现()性",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 347,
+    "question": "加强现货与辅助服务有序协调，在交易时序、市场准入等方面做\n好衔接。现货市场连续运行地区，()费用可向用户侧疏导。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 348,
+    "question": "选择执行需量电价计费方式的两部制用户，每月每千伏安用电量\n达到()千瓦时及以上的，当月需量电价按本通知核定标准90%\n执行。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 349,
+    "question": "电力市场信息封存是指对关键信息的记录留存，任何有助于还原\n运行日情况的关键信息应当记录、封存，信息的封存期限为()\n年，特殊情形除外。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 350,
+    "question": "拥有配电网运营权售电公司私有信息不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 351,
+    "question": "发电企业经济持留行为的主要体现是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 352,
+    "question": "绿色电力交易是中长期交易的组成部分，执行电力中长期交易规\n则，由()在电力交易平台按照年(多年)、月(多月)、月内\n(旬、周、日滚动)等周期组织开展。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 353,
+    "question": "高电压输电线路的电阻往往小于电抗，改变电压的相位，主要改\n变网络中的()分布。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 354,
+    "question": "供电()是指向用户供应并销售电能的地域。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 355,
+    "question": "到()年底，大气污染防治重点区域平原地区散煤基本清零，基\n本淘汰35蒸吨/小时及以下燃煤锅炉及各类燃煤设施",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 356,
+    "question": "根据《发电机组进入及退出商业运营办法》(国能发监管规〔\n2023〕48号),发电机组和独立新型储能调试运行期上网电量，\n由电网企业收购，纳入()电量来源。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 357,
+    "question": "根据《电力并网运行管理规定》,电力调度机构根据实施细则，\n按照()原则，负责并网运行管理的具体实施工作，对并网主体\n运行情况进行考核。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 358,
+    "question": "《电力系统安全稳定导则》(GB38755-2019)对电网安全稳定的总\n体要求为：为保证电力系统运行的稳定性，维持电力系统频率、\n()的正常水平，系统应有足够的静态稳定储备和有功功率、无\n功功率备用容量。备用容量应分配合理，并有必要的调节手段。\n在正常负荷及电源波动和调整有功、无功潮流时，均不应发生自\n发振荡。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 359,
+    "question": "根据《关于加强绿色电力证书与节能降碳政策衔接大力促进非化\n石能源消费的通知》,受端省份通过绿证交易抵扣的可再生能源\n消费量，原则上不超过本地区完成“十四五”能耗强度下降目标所\n需节能量的()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 360,
+    "question": "美国PJM结算模式为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 361,
+    "question": "电力现货市场的重要特征是()随时间波动。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 362,
+    "question": "输配电价(含交叉补贴)、()等以政府核定水平为准。政府性\n基金及附加遵循政府有关规定。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 363,
+    "question": "电力现货市场建设运行的阶段不包括",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 364,
+    "question": "增量配电网区域内用户承担的配电网配电价格与上一级输配电价\n之和()其直接接入相同电压等级对应的现行省级电网输配电价\n\n。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 365,
+    "question": "加快建设调频、备用辅助服务市场，在可再生能源比例较高的地\n区探索开展()等辅助服务市场品种建设。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 366,
+    "question": "中长期()是指为鼓励发用两侧签订中长期合约，稳定市场价\n格，对现货运行日用户侧中长期电量不足实际结算电量一定比例\n的情况进行考核。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 367,
+    "question": "优先购电保障措施不包括(",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 368,
+    "question": "批发市场用户A某日T时的结算数据如下：\n  中长期合同电量80,协议价格0.4;\n  日前现货电量100,日前市场价格0.45;\n  实际用电量110,实时市场价格0.48。\n那么批发市场用户A某日T时的日前市场电能量电费为下面哪一\n项 ( )",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 369,
+    "question": "我国《电力现货市场基本规则(试行)》发改能源规〔2023〕\n1217号明确，市场成员对于出清价格、结算依据中的电量或金额\n有争议的，应在市场运营机构给出查询回复后的()个工作日\n内以书面方式提出",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 370,
+    "question": "电力现货市场基本规则(试行),电力交易机构和电网企业应确\n定结算周期、结算依据和结算账单出具日期以及收付款日期等，\n在此基础上制定相关时间节点和流程，并提前()公开上述信\n息。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 371,
+    "question": "系统可用容量是结合实际，考虑机组检修、燃料等因素，所有\n()机组可作为负荷供应、备用供应的容册之和。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 372,
+    "question": "现货试点地区要加强中长期、辅助服务与现货、省间与省内市场\n在价格形成机制方面的协同衔接。各地现货市场出清价格上限设\n置应满足鼓励调节电源顶峰需要并与需求侧响应价格相衔接，价\n格下限设置可参考当地()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 373,
+    "question": "启动结算试运行时，至少应具备以下哪几个条件():(1)结\n算试运行工作方案及规则经政府有关部门批复；(2)市场成员\n模拟/调电试运行参与度达到规定比例并熟悉交易流程；(3)电\n力现货技术支持系统运转正常，申报、出清、结算等功能模块实\n现全流程贯通；(4)市场结算不平衡费用分摊机制明确；(5)\n市场应急处置预案完备并经过演练.",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 374,
+    "question": "我国《电力现货市场基本规则(试行)》发改能源规〔2023〕\n1217号明确，()按照有关程序对市场风险进行预警，并报告国\n家能源局派出机构、省(区、市)有关主管部门。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 375,
+    "question": "大力促进非化石能源消费。科学合理确定新能源发展规模，在保\n证经济性前提下，资源条件较好地区的新能源利用率可降低至\n()",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 376,
+    "question": "目前规定火电深度调峰为()额定出力",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 377,
+    "question": "电力市场运营机构为保证电力市场安全运营，依照电力市场运行\n规则，0进行市场干预。电力市场运营机构进行市场干预(向电力\n交易主体公布干预原因。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 378,
+    "question": "可再生能源发电项目电量由国家能源局按()统一核发绿证，稳\n步提升核发效率。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 379,
+    "question": "对分散式风电、分布式光伏发电项目的(),核发可交易绿证。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 380,
+    "question": "省间现货交易采用边际电价结算机制。卖方节点最后一笔成交交\n易对的买卖双方价格()为该卖方节点竞价出清的边际价格，以\n此作为该卖方节点所有成交交易的结算价格。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 381,
+    "question": "已直接参与市场交易、在无正当理由情况下改由电网企业代理购\n电的用户，拥有燃煤发电自备电厂、由电网企业代理购电的用\n户，用电价格为电网企业代理购电价格的()倍。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 382,
+    "question": "大数据分析在电力市场营销中的应用不包括以下哪项?",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 383,
+    "question": "现货市场运行的地方，电网企业要定期预测代理购电工商业用户\n用电量及典型负荷曲线，通过场内集中交易方式(不含撮合交\n易)代理购电，以()等方式参与现货市场出清结算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 384,
+    "question": "集中竞争交易中，在集中竞价阶段，如果统一出清价为400元/兆\n瓦时，下列哪些申报价格一定会成交()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 385,
+    "question": "我国在用电侧实行的峰谷电价制度的主要目的是什么?",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 386,
+    "question": "关于电力交易统一价格出清不正确的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 387,
+    "question": "在既有水电厂、火电厂和核电厂的电力系统中，洪水季节调频电\n厂通常选择()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 388,
+    "question": "发电权是电厂通过合约市场()所获得的发电初始合同。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 389,
+    "question": "到2060年，绿色低碳循环发展的经济体系和清洁低碳安全高效的\n能源体系全面建立，能源利用效率达到国际先进水平，非化石能\n源消费比重达到()以上。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 390,
+    "question": "我国电力市场在空间维度上的(),是由电力市场的特性及我国\n的国情、网情所决定的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 391,
+    "question": "若三寡头垄断测试结果为该机组控制线路阻塞能力(),表明该\n测试机组对缓解线路阻塞作用并不显著,无需进行管制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 392,
+    "question": "省间现货出清采用()电价出清机制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 393,
+    "question": "关于进一步完善煤炭市场价格形成机制的通知(发改价格〔2022\n〕303号)提出，要完善煤、电价格传导机制，引导煤、电价格\n主要通过()形成。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 394,
+    "question": "北京电力交易中心跨区跨省电力中长期交易实施细则明确：年度\n市场原则上每年(),北京电力交易中心集中发布受理通过的要\n约，具体安排以年度市场交易公告为准。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 395,
+    "question": "需要配置可购买时间内每个月零售套餐中的电价及电量参数的是",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 396,
+    "question": "需求侧管理是电力企业活动的计划和实施，这些活动能够影响用\n户对电力的使用，从而使电力企业的()发电预期的变化。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 397,
+    "question": "()应当采取有效措施控制温室气体排放，按照国家有关规定和\n国务院生态环境主管部门制定的技术规范，制定并严格执行温室\n气体排放数据质量控制方案。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 398,
+    "question": "市场调节类费用纳入市场运营费用管理，以()为周期进行返还",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 399,
+    "question": "现货市场出清优化模型中以下()为不可松弛约束.",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 400,
+    "question": "经济学中一般用需求的价格弹性来衡量需求的数量随商品的()\n变动而变动的情况，简称弹性需求。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 401,
+    "question": "随着电改不断深入，售电公司若想在激烈的竞争中生存并发展壮\n大，应当采取()措施。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 402,
+    "question": "根据国家发展改革委财政部国家能源局《关于做好可再生能源\n绿色电力证书全覆盖工作促进可再生能源电力消费的通知》,对\n存量常规水电项目，暂不核发可交易绿证，相应的绿证随电量直\n接无偿划转。对()(含)以后新投产的完全市场化常规水电项\n目，核发可交易绿证。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 403,
+    "question": "我国采用的可再生能源补贴政策是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 404,
+    "question": "6月26日，国家能源局发布了关于启用国家绿证核发交易系统的\n公告。公告中提到，国家绿证核发交易系统每月以电网企业、电\n力交易机构提供的数据为基础，对已()的项目上月电量核发绿\n证。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 405,
+    "question": "水电站以其全部装机容量，所能发出的出力称()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 406,
+    "question": "售电公司资产总额不得低于()元人民币",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 407,
+    "question": "电力交易机构收到售电公司提交的注册申请和注册材料后，在\n()个工作日内完成材料完整性审查，并在满足注册条件后完成\n售电公司的注册手续。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 408,
+    "question": "在分散式市场模式下，市场运营和电网运行的安全责任主体可能\n是(,日前市场虽不精细化考虑电网约束，日前发用电计划由市\n场主体自主根据交易合同制定，电网调度机构仍需通过实时阶段\n的平衡机制以调整成本最小为目标进行系统平衡调节，获得可用\n于执行的交易调整结果。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 409,
+    "question": "在《新型电力系统建设蓝皮书》中，全球最大单机容量为()万\n千瓦水电机组投入运行",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 410,
+    "question": "在北京电力交易中心有限公司关于印发《北京电力交易中心绿色\n电力交易实施细则(修订稿)》的通知中，在绿色电力交易中，应该\n坚持哪些原则?",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 411,
+    "question": "中长期电能量交易包括集中交易和()交易两种方式。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 412,
+    "question": "省间多通道竞价，省间通道输电费用采用()的方式收取",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 413,
+    "question": "在电力现货市场中，哪个环节最具有波动性?",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 414,
+    "question": "碳排放配额实行()分配，并根据国家有关要求逐步推行免费和\n有偿相结合的分配方式。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 415,
+    "question": "电力销售的增值税税率为",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 416,
+    "question": "加快放开各类电源参与电力现货市场。按照()新能源全面参与\n市场交易的时间节点，现货试点地区结合实际制定分步实施方案\n○",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 417,
+    "question": "配电区域划分主管部门应当在项目业主确定前明确配电区域并公\n示，公示期不少于()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 418,
+    "question": "营业执照经营范围必须明确具备()、售电或电力供应等业务事项。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 419,
+    "question": "以下哪个不是市场化机组的电量交易类型?",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 420,
+    "question": "调频市场预出清的主要目的是?",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 421,
+    "question": "原则上，电网调度机构依据市场成员的调整报价信息，以()成\n本最低为原则对电网进行平衡调度，前提是电网安全运行有保障\no",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 422,
+    "question": "省级及以上电网企业应于每月0日前按对应级别向国家发展改革\n委、国家能源局及其派出机构报送上一月度可再生能源发电相关\n信息",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 423,
+    "question": "各地统筹调峰需求、调节资源成本和新能源消纳等因素，按照新\n能源项目消纳成本不高于发电价值的原则，合理确定调峰服务价\n格上限，调峰服务价格上限原则上不高于当地平价新能源项目的\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 424,
+    "question": "根据《售电公司管理办法》,售电公司资产总额在9000万人民币\n的，最多可以从事年售电量()亿千瓦时的售电业务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 425,
+    "question": "电力现货市场连续运行的地区，符合上述要求的调频、备用辅助\n服务费用(不含提供辅助服务过程中产生的电量费用),原则上\n由()共同分担，分担比例由省级价格主管部门确定。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 426,
+    "question": "新建煤电机组应从哪个时间点起执行煤电容量电价机制?",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 427,
+    "question": "电力市场信息披露平台披露的信息应保留或可供查询的时间不少\n于 ( ) 年 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 428,
+    "question": "我国《电力现货市场基本规则(试行)》发改能源规〔2023〕\n1217号明确，市场成员对于结算凭证中的电量或金额有争议的，\n应在电网企业给出结算查询回复后的0个工作日内以书面方式提\n出",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 429,
+    "question": "跨区域省间富余可再生能源电力现货市场由()中心负责组织运营 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 430,
+    "question": "一张绿证对应多少电量",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 431,
+    "question": "全额保障性收购范围是指可再生能源发电项目的()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 432,
+    "question": "申报调频辅助服务的常规火电机组的基本调峰能力应满足：非供\n热机组、不承担供热任务的供热机组的基本调峰能力不低于其装\n机的();承担供热任务的供热机组的基本调峰能力需求不低于\n其装机容量的()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 433,
+    "question": "发电企业合同转让交易中出让方出让的各段电量一般不得超出",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 434,
+    "question": "《国家发展改革委国家能源局关于建立煤电容量电价机制的通知\n》(发改价格〔2023〕1501号)文件规定，新建煤电机组自()\n起执行煤电容量电价机制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 435,
+    "question": "根据《电力市场信息披露基本规则》,信息的封存期限为()\n年，特殊情形除外。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 436,
+    "question": "()适用于处理偶发性、不可预测的输电阻塞或对发用电调度进行微调。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 437,
+    "question": "运行日内，若必开机组当天的总发电收益低于核定的总(),按\n照核定的总()对必开机组进行补偿。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 438,
+    "question": "在集中式市场模式下，市场运营和电网运行的安全责任整体是一\n致的，日前与实时交易均通过集中优化方式组织市场交易，现货\n交易组织需要与调度检修计划、方式安排、安全校核、机组组合\n等统一考虑、统筹优化、统一协调，电力现货市场出清结果作为\n0的依据。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 439,
+    "question": "电力现货市场中，日前市场的主要作用是什么?",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 440,
+    "question": "电网企业代理采购线损电量的损益按()向全体工商业用户分摊\n或分享。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 441,
+    "question": "年度交易中，安全校核由国调中心组织有关调度机构协同开展，\n原则上于()个工作日内完成年度交易的安全校核，并将校核结\n果返回至北京电力交易中心。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 442,
+    "question": "根据《国家能源局关于做好新能源消纳工作保障新能源高质量\n发展的通知》,(),做好上年度新能源消纳工作总结，滚动测\n算各省份本年度新能源利用率和新能源消纳空间，同步开展中长\n周期(3—5年)测算，提出措施建议。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 443,
+    "question": "在《关于加快建设全国统一电力市场体系的指导意见》(发改体\n改〔2022〕118号)中提出，鼓励分布式光伏、分散式风电等主\n体与周边用户()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 444,
+    "question": "现货及辅助服务市场申报发布模块均与()相连，申报发布子系\n统涵盖市场成员注册、市场申报、信息发布三大部分。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 445,
+    "question": "省间电力现货市场技术支持系统(以下简称省间现货系统)采用\n云架构设计，将省间现货系统主要应用和数据(),提升系统建\n设经济性和数据交互效率",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 446,
+    "question": "省间、省内中长期市场已较为完善并常态化运行，省间交易与省\n内交易的功能定位日渐清晰。\n从协同机制看，形成了“”的省间、省内市场协调运作模式，省间\n市场与省内\n市场的协同运作水平不断提升。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 447,
+    "question": "确认启动保底售电服务后，电力交易机构书面通知保底售电公\n司、拟退出售电公司，以及拟退出售电公司的批发合同各方、电\n力用户。保底售电公司从发出通知的(起承接批发合同及电力用\n户服务，其保底服务对应的市场化交易单独结算",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 448,
+    "question": "电能量交易由()按照电力市场运行规则组织实施。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 449,
+    "question": "《国家能源局关于印发<电力市场信息披露基本规则>的通知》\n(国能发监管〔2024〕9号)文件明确，信息封存的期限为\n(),特殊情形除外。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 450,
+    "question": "下列哪种服务不属于有功平衡服务的范畴?",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 451,
+    "question": "电力现货市场建设是一项复杂的()工程。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 452,
+    "question": "在电力辅助服务市场中，哪种调峰服务类型是目前较为常见的?",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 453,
+    "question": "根据《电力中长期交易基本规则》,电力用户侧的偏差电量费用\n与发电侧的上下调费用、偏差电量费用等之间的差额，按照电量\n占比分摊或者返还给()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 454,
+    "question": "电力市场建设总体要求为在具备条件的地区逐步建立以中长期交\n易为主、现货交易为补充的市场化电力电量平衡机制；逐步建立\n以中长期交易规避风险，以现货市场发现价格，交易品种齐全、\n()的电力市场。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 455,
+    "question": "“十四五”前三年节能降碳指标进度滞后地区要实行新上项目非化\n石能源消费承诺，“十四五”后两年新上高耗能项目的非化石能源\n消费比例不得低(),鼓励地方结合实际提高比例要求。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 456,
+    "question": "《国家发展改革委关于进一步深化燃煤发电上网电价市场化改革\n的通知》(发改价格〔2021〕1439号)规定，已参与市场交易、\n改为电网企业代理购电的用户，其价格按电网企业代理其他用户\n购电价格的()倍执行",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 457,
+    "question": "()的作用在于为市场交易的参与者提前提供市场交易在传输容\n量方面的边界信息，市场主体可据此进行预判和决策从而开展交\n易 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 458,
+    "question": "合理确定调频服务价格上限。原则上性能系数最大不超过(),\n调频里程出清价格上限不超过每千瓦()元。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 459,
+    "question": "电能表的额定电压是根据()确定的.",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 460,
+    "question": "电力市场运行基本规则要求信息披露应当遵循“安全、0、真实、\n准确、完整、易于使用”的原则。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 461,
+    "question": "欧洲国家的电力商品和天然气商品具有相互替代关系，则电力商\n品的价格下降将导致()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 462,
+    "question": "根据《关于建立健全电力辅助服务市场价格机制的通知》,原则\n上调频性能系数最大不超过(),调频里程出清价格上限不超过\n每千瓦()元。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 463,
+    "question": "以下哪一个不是统一电力市场体系的基本功能模块?",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 464,
+    "question": "分布式发电对传统电力市场的影响主要表现为?",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 465,
+    "question": "基态潮流分析根据自动生成的校核断面潮流进行分析计算，判断\n基态潮流下的设备()情况。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 466,
+    "question": "运行维护费主要包括哪些方面的费用支出()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 467,
+    "question": "跨省跨区输电工程降价分享空间在交易电费结算时向()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 468,
+    "question": "依据《电力辅助服务管理办法》,新建发电机组调试运行期形成\n的差额资金纳入()资金管理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 469,
+    "question": "()既可以作为电能量提供商，也可以作为辅助服务提供来源参\n与现货市场。可利用虚拟电厂内部的储能充放电、负荷调整、电\n动汽车充电等方式提供备用能力。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 470,
+    "question": "电力现货市场交易中，实时市场的目的是什么?",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 471,
+    "question": "《售电公司管理办法》规定，售电公司注册生效后，通过电力交\n易平台每年()底前披露其资产、人员、经营场所、技术支持系\n统等持续满足注册条件的信息和证明材料。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 472,
+    "question": "绿电交易结算原则是",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 473,
+    "question": "《全额保障性收购可再生能源电量监管办法》中全额保障性收购\n范围是指至少同时满足\n()条件的可再生能源发电项目的上网电量。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 474,
+    "question": "全网模型参与安全校核计算时，根据状态估计中的负荷对象建\n模，保证母线负荷预测总加与系统负荷误差不超过()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 475,
+    "question": "《关于进一步完善抽水蓄能价格形成机制的意见》中提出，电网\n企业要对抽水蓄能电站电价结算单独归集、单独反映，于每年0\n底前将上年度抽水蓄能电站电价执行情况报相关省级价格主管部\n门和国家发展改革委(价格司)。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 476,
+    "question": "2023年11月，国家发改委印发《建立煤电容量电价机制的通知》\n(发改价格〔2023〕1501号),正常在运煤电机组若无法按照调\n度指令提供申报最大出力，超过()次全额扣减容量电费。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 477,
+    "question": "根据《关于建立健全电力辅助服务市场价格机制的通知》,由用\n户承担的辅助服务费用纳入系统运行费用，随电费一同结算，电\n力现货市场连续运行的地区采用()模式。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 478,
+    "question": "在日滚动融合交易中，申报限价40-650元/兆瓦时，当前市场买1\n(转出方)报价200元/兆瓦时，卖1(转入方)报价220元/兆瓦\n时，若A电厂(转出方)与B电厂(转入方)协商双方按照250元/\n兆瓦时成交，则A电厂报价()B电厂报价()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 479,
+    "question": "电力监管机构对电力企业、电力调度交易机构披露信息的情况进行()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 480,
+    "question": "电力现货市场建设按照()的框架，构建省间、省(区、市)/\n区域现货市场，建立健全日前、日内、实时市场。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 481,
+    "question": "电力市场结算不得设置不平衡资金池，每项结算项目均需(),\n分类明确疏导。所有结算项目的分摊(返还)应根据“谁产生、\n谁负责，谁受益、谁承担”原则事先商定分摊(返还)方式，明\n确各方合理的权利与义务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 482,
+    "question": "根据“电力市场监管办法”,干预或者中止电力市场期间，电力市\n场运营机构应当采取措施保证电力系统安全，记录干预或者中止\n过程，并向O报告。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 483,
+    "question": "切实落实交易机构总体负责信息披露实施工作的职责，市场主体\n披露信息需经()后披露。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 484,
+    "question": "负责首次办理售电公司注册手续的电力交易机构，负责对其按照\n本办法规定办理业务的有关材料进行()审查，必要时组织对售\n电公司进行现场核验。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 485,
+    "question": "辅助服务的经济学意义是放弃在()上发电获利的机会，因而产\n生了机会成本。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 486,
+    "question": "运行日(D日)为执行日前电能量市场交易计划的自然日，每\n()分钟为一个交易出清时段，每个运行日含有()个交易出清\n时段。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 487,
+    "question": "电网企业代理购电价格、代理购电用户电价应按月测算，并提前\n()通过营业厅等线上线下渠道公布，于次月执行，并按用户实\n际用电量全额结算电费。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 488,
+    "question": "电力市场应当按照国家有关规定组建电力市场管理委员会，作为\n独立于电力交易机构的()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 489,
+    "question": "正常在运情况下，煤电机组无法按照调度指令提供申报最大出力\n月内发生三次的相应容量电费扣减比例为?",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 490,
+    "question": "根据《关于建立健全电力辅助服务市场价格机制的通知》,调频\n费用根据()乘积计算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 491,
+    "question": "重点排放单位未按照规定清缴其碳排放配额的，由生态环境主管\n部门责令改正，处未清缴的碳排放配额清缴时限前1个月市场交\n易平均成交价格()倍以上10倍以下的罚款。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 492,
+    "question": "检修停复电准确率会直接影响到()的运营情况，令()与()\n价格产生较大偏移。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 493,
+    "question": "调试运行期的发电机组和独立新型储能，以及退出商业运营但仍\n然可以发电上网的发电机组(不含煤电应急备用电源)和独立新\n型储能辅助服务费用分摊标准，原则上应当高于商业运营机组分\n摊标准，但不超过当月调试期电费收入的(),分摊费用月结月\n清。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 494,
+    "question": "PJM的()不要求其所有者为反向阻塞支付费用，是一种安全性\n更高的风险规避手段。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 495,
+    "question": "注册售电公司的资产总额不得低于()元人民币。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 496,
+    "question": "稀缺定价机制指提高现货市场价格上限，允许系统在电能量和备\n用短缺时出现极高的短时价格尖峰，主要适用于()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 497,
+    "question": "我国《电力现货市场基本规则(试行)》发改能源规〔2023〕\n1217号明确电力现货市场应依序开展模拟试运行、结算试运行和\n正式运行，启动相关试运行和正式运行前按()规定的程序开展\n相关市场运行工作。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 498,
+    "question": "电力市场中，电力交易的最终目的是什么?",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 499,
+    "question": "经济效率最高的市场结构是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 500,
+    "question": "集团公司建立(),推行营销人员动态跟踪与优化管理，各单位\n建立选拔培养与市场化引进结合的人才机制，加强人才梯队建\n设，完善营销人才培养体系。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 501,
+    "question": "在碳市场机制下， CCER可抵消碳排放配额不超过()的排放量",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 502,
+    "question": "国家绿证核发交易系统()以电网企业、电力交易机构提供的数\n据为基础，对已建档立卡的项目上月电量核发绿证。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 503,
+    "question": "以下现货市场属于结算试运行的是()",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 504,
+    "question": "电力市场运行基本规则要求信息披露主体应严格按照要求披露信\n息，并对其披露信息的真实性、()、完整性、及时性负责。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 505,
+    "question": "电力现货市场基本规则(试行),现货市场起步阶段，调频、备\n用辅助服务市场与现货市场可();具备条件时，调频、备用辅\n助服务市场与现货市场可()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 506,
+    "question": "北京电力交易中心跨区跨省电力中长期交易实施细则明确：采用\n灵活浮动价格机制的交易(原交易开展时应填报初始价格),每\n月第()个工作日前，填报要约的经营主体应在交易平台填报\n上月浮动后的变更价格，若未填报，则按初始价格出具结算依据",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 507,
+    "question": "用于计算容量电价的煤电机组固定成本实行全国统一标准，为每\n年每千瓦()元",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 508,
+    "question": "加强可再生能源绿色电力证书交易与节能降碳政策衔接，()年\n底实现绿证核发全覆盖。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 509,
+    "question": "用户连续()不用电，也不申请办理暂停用电手续者，供电企业\n须以销户终止其用电。用户需再用电时，按新装用电办理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 510,
+    "question": "在电力市场中，“电力需求预测”主要用于指导什么?",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 511,
+    "question": "额定过热蒸汽压力P为16.7MP1的锅炉是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 512,
+    "question": "区域电网准许收入通过容量电费和电量电费两种方式回收。电量\n电费随区域电网实际交易结算电量收取，由()支付。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 513,
+    "question": "下列不属于影响电力现货市场出清价格的因素是()",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 514,
+    "question": "()主要是为电力现货市场出清计算提供静态安全校核计算服务\n支撑，保障市场出清结果满足电网安全运行约束条件",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 515,
+    "question": "以纵轴代表价格、横轴代表产量绘制市场环境下电力的需求曲线\n和供给曲线。假设其他条件不变，当生产成本上升时，在坐标图\n上就表现为电力的()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 516,
+    "question": "电力市场中的“电力交易合同”通常包括哪些要素?",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 517,
+    "question": "电力工业传统的物理功能可以划分为()、输电、配电三个环节",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 518,
+    "question": "()是结合实际，考虑机组检修、燃料等因素，所有统调机组可\n作为负荷供应、备用供应的容量之和。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 519,
+    "question": "北京电力交易中心跨区跨省电力中长期交易实施细则明确：月度\n市场交易公告发布后至上旬最后()个工作日，经营主体完成\n双边、挂牌要约填报及提交，电量、电力曲线应不超过通道限额\n。北京电力交易中心2个工作日内返回受理结果。具体安排以每\n月月度市场交易公告为准。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 520,
+    "question": "依据《售电公司管理办法》售电公司未按要求持续满足注册条件\n的，电力交易机构应()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 521,
+    "question": "省间多通道竞价，经同一条输电路径的“购售对”,出清后价格\n()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 522,
+    "question": "《跨省跨区专项工程输电价格定价办法》(发改价格规(2021)\n1455号)规定专项工程定价线损率参照设计线损率和前0年实际\n平均线损率确定。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 523,
+    "question": "按照《售电公司业务标准化(3.0版)指导意见》通知中，以下属\n于“程序合规、风险可控”建设目标的是：",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 524,
+    "question": "根据“关于建立健全电力辅助服务市场价格机制的通知发改价格\n〔2024〕196号”,调频里程出清价格上限不超过每千瓦()元。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 525,
+    "question": "我国《电力现货市场基本规则(试行)》发改能源规〔2023〕\n1217号明确，()负责编制各类风险处置预案，包括风险级别、\n处置措施、各方职责等内容，并滚动修编。风险处置预案经国家\n能源局派出机构、省(区、市)有关主管部门审定后执行。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 526,
+    "question": "电力需求侧管理是指为提高电力资源利用效率，改进用电方式，\n实现科学用电、()、有序用电所开展的相关活动。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 527,
+    "question": "垂直一体化水平的大小可以由发电公司在零售市场中销售的电量\n与该公司发电量的比例来反映。该比例(),市场的垂直一体化\n水平(),则认为市场表现欠佳。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 528,
+    "question": "基于服务的安全校核智能并行计算，构建在电力现货市场技术支\n持系统统一平台上，()不能向安全校核发起计算请求。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 529,
+    "question": "在国家绿证核发交易系统中，申领承诺书审核通过后，用户可在\n()功能页面进行绿证申领。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 530,
+    "question": "根据《电力市场信息披露基本规则》,信息披露主体按照标准数\n据格式在信息披露平台披露信息，披露的信息保留或可供查询的\n时间不少于()年。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 531,
+    "question": "经济利润也称为超额利润，指企业总收益和()之间的差额。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 532,
+    "question": "()应落实可再生能源发电项目保障性电量收购政策要求，并保\n障已达成市场交易电量合同的执行。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 533,
+    "question": "()利用检修反演机制，生成电网的正常运行方式",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 534,
+    "question": "电力现货市场交易的价格类型主要包括哪些?",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 535,
+    "question": "根据《电力市场运行基本规则》,()根据国家有关规定建立市\n场注册制度，具体负责电力市场注册管理工作。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 536,
+    "question": "进一步明确政府与市场的定位，实施科学的0是我国新一轮电力\n体制改革重点任务之一，也是国家治理现代化的内在要求。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 537,
+    "question": "调度应急处置的情况不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 538,
+    "question": "《国家发展改革委关于抽水蓄能电站容量电价及有关事项的通知\n》(发改价格〔2023〕533号)文件明确，要与电站签订()并\n对外公示，公平公开公正实施调度",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 539,
+    "question": "()负责绿色电力交易安全校核，按规定实施调度。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 540,
+    "question": "电力市场的主要子市场是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 541,
+    "question": "售电公司注册信息发生变化时，应在()个工作日内向首次注\n册的电力交易机构申请信息变更。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 542,
+    "question": "市场运营机构应公布市场干预情况原始日志，包括干预时间、干\n预人员、干预操作、干预原因，涉及《电力安全事故应急处置和\n调查处理条例》(中华人民共和国国务院令第599号)规定电力\n安全事故等级的事故处理情形除外。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 543,
+    "question": "在进行电力市场分析时，以下()指标最能直接反映市场供需关系。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 544,
+    "question": "信息调整是指()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 545,
+    "question": "以()为基础设立信息披露平台，相关部门按照标准格式通过信\n息披露平台向交易机构提供信息，由交易机构通过信息披露平台\n发布信息。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 546,
+    "question": "当现货市场信息出现变更时，()应及时发布变更说明。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 547,
+    "question": "电力企业内部运营成本对价格的影响主要体现在()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 548,
+    "question": "保密信息维护包括以下()活动。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 549,
+    "question": "安全保护能力要求包括以下()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 550,
+    "question": "保密制度管理包括以下()内容。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 551,
+    "question": "交易场所安全管理范围涵盖了以下()内容。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 552,
+    "question": "风险防控包括以下()措施。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 553,
+    "question": "设施维护包括以下()措施。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 554,
+    "question": "账号权限变更可能由多种原因引起，以下()不是常见原因。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 555,
+    "question": "在电力市场中，不同类型的账号对应着不同的权限需求。以下\n()账号可以进行账号管理、交易参数设置、数据查询与导出等\n操作。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 556,
+    "question": "()是国家和地方政府为了实现电力市场化改革的目标而制定和\n发布的、具有法律效力的规范性文件。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 557,
+    "question": "解读政策文件，首先应()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 558,
+    "question": "解读政策文件的内容和要求，要以()为主线，在政策内容、改\n革内容等章节中对应提炼具体举措。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 559,
+    "question": "以下()不是《电力市场运行基本规则》(中华人民共和国国家\n发展和改革委员会令第20号)出台目的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 560,
+    "question": "以下()不是《电力市场监管办法》(中华人民共和国国家发展\n和改革委员会令第18号)中明确内容。()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 561,
+    "question": "()是指国家或地方政府制定的关于电力中长期交易的基本原则\n、程序、方式、价格、结算、监管等方面的规定。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 562,
+    "question": "《关于加快建设全国统一电力市场体系的指导意见》(发改体改\n〔2022〕118号)提出“健全多层次统一电力市场体系”,根据内容\n分析，以下()不属于该板块要求。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 563,
+    "question": "及时了解规则的修订和更新情况，思考条款变化背后潜在的逻辑\n关系，规则的变化可能影响()的策略和决策。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 564,
+    "question": "中长期交易规则中，市场准入机制包括()、资质审查、准入流程等方面。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 565,
+    "question": "解读交易组织和安全校核环节相关内容，应了解交易的具体操作\n步骤和时间节点，包括交易申报、撮合、()等环节，偏差电量\n处理机制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 566,
+    "question": "《电力市场注册基本规则》(国能发监管规〔2024〕76号)的印\n发目的不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 567,
+    "question": "解读中长期交易规则时，根据()分析规则制定的意图，发现新\n规则的创新点与优化措施。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 568,
+    "question": "《国家发展改革委国家能源局关于印发的通知》(发改能源规〔\n2020〕889号)的文件层级是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 569,
+    "question": "2024年，国家发展改革委印发《电力市场运行基本规则》(中华\n人民共和国国家发展和改革委员会令第20号),下列()属于梳\n理规则核心框架时应关注的内容。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 570,
+    "question": "《关于加快建设全国统一电力市场体系的指导意见》(发改体改\n〔2022〕118号〕提出，到()年，全国统一电力市场体系基本\n建成。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 571,
+    "question": "《国家发改委国家能源局关于建立煤电容量电价机制的通知》\n(发改价格〔2023〕1501号)包括总体思路、政策内容、保障措\n施三部分内容，请推测，“容量电费分摊方式和考核要求”的相关\n描述在()部分出现。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 572,
+    "question": "燃煤机组容量电费考核由机组调度指令执行情况、最大出力达标\n情况等确定，下列()为发电企业据此分析对自身产生的影响。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 573,
+    "question": "以下()不属于解读交易规则的步骤。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 574,
+    "question": "电力市场的()是保障市场公平竞争和高效运行的重要手段。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 575,
+    "question": "精读规则条款时，要针对关键环节提取关键信息，不同交易方式\n下的报价方式属于()环节应关注的信息。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 576,
+    "question": "解读《电力市场运行基本规则》(中华人民共和国国家发展和改\n革委员会令第20号)时，以下()内容为“解读主要内容和要求”\n环节该关注的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 577,
+    "question": "在中长期交易的组织中，交易公告是交易组织前向()发布。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 578,
+    "question": "依照国家中长期电力交易规则的要求，对定期开市的交易，需要\n提 前 ( ) 公 告 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 579,
+    "question": "交易规模限制是指对本次交易的规模是否限定()规模。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 580,
+    "question": "执行周期是指本次交易成交合同的()时间。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 581,
+    "question": "当中长期交易采取机组组合的方式进行时，在现货的市场组织时\n合同曲线是需要拆分到()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 582,
+    "question": "中长期合同的分解，发电侧结合机组检修计划的分解，优于按照\n()分解。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 583,
+    "question": "市场主体参与中长期交易，需要基于自身实际()情况收集完整\n、准确的信息，做好交易准备工作。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 584,
+    "question": "从发电经营主体角度来说，需要预测后续()走势，在此基础上\n提前安排下一年度或下一月份的发电计划、检修计划，合理预估\n交易电量，制定中长期交易参与策略。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 585,
+    "question": "一定可以参加市场交易的发电机组包括：",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 586,
+    "question": "年度交易结束后，电力调度机构在()工作日内返回安全校核结\n果，由电力交易机构发布。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 587,
+    "question": "月度交易结束后，电力调度机构在()工作日内返回安全校核结\n果，由电力交易机构发布。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 588,
+    "question": "月内交易结束后，电力调度机构在()工作日内返回安全校核结\n果，由电力交易机构发布。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 589,
+    "question": "对于月度内的交易，参考月度交易的限额制定方法，按照不低于\n关键通道可用输电容量的()下达交易限额。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 590,
+    "question": "对于月度交易，应当在月度电力电量预测平衡的基础上，结合检\n修计划和发电设备利用率，按照不低于关键通道可用输电容量的\n()下达交易限额。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 591,
+    "question": "对于年度交易，应当在年度电力电量预测平衡的基础上，结合检\n修计划，按照不低于关键通道可用输电容量的()下达交易限额\n0",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 592,
+    "question": "某电厂某日中长期合约电价550元/MWh,合约电量1000万kWh。\n当日该厂所处现货市场价区日前出清均价580元/MWh,中标电量\n1500万kWh。实时出清均价达1000元/MWh时，实际发电量0。此\n情况下据现货市场规定，如不考虑非计划停运考核，该厂该日总\n盈亏金额为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 593,
+    "question": "某日0:00至1:00时段，售电公司B通过年度双边协商交易买入电量\n400MWh,价格374.4元/MWh;月度集中竞价交易买入电量\n300MWh,价格374.0元/MWh;滚动撮合交易买入电量\n100MWh,价格374.0元/MWh,用户侧日前市场统一结算点电价\n500.0元/MWh,中长期结算参考点的日前电价500.0元/MWh。售\n电公司该时段总盈亏金额为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 594,
+    "question": "某区域发电企业联合提高报价操控市场价格的行为，反映了()\n因素的作用。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 595,
+    "question": "某日0:00至1:00时段，售电公司C通过年度双边协商交易买入电量\n400MWh,价格374.4元/MWh;月度集中竞价交易买入电量\n300MWh,价格374.0元/MWh;滚动撮合交易买入电量\n100MWh,价格374.0元/MWh,用户侧日前市场统一结算点电价\n366.0元/MWh,中长期结算参考点的日前电价366.0元/MWh。该\n时段售电公司C三笔中长期交易产生的购电成本盈亏为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 596,
+    "question": "某日12:00至13:00时段，售电公司A通过年度双边协商交易买入电\n量20MWh,价格374.4元/MWh;月度集中竞价交易买入电量\n20MWh,价格374.0元/MWh;滚动撮合交易买入电量10MWh,\n价格374.0元/MWh。该时段售电公司A中长期交易产生的购电成\n本费用为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 597,
+    "question": "加快建立有利于促进绿色能源生产消费的市场体系和长效机制，\n推动绿色电力交易融入电力中长期交易，满足电力用户购买绿色\n电力需求，为促进绿色电力交易，国家发展改革委、国家能源局\n发布了()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 598,
+    "question": "绿色电力是指符合国家有关政策要求的已建档立卡的可再生能源\n发电项目所生产的()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 599,
+    "question": "绿证交易是以()为标的物的市场交易。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 600,
+    "question": "中长期市场按照()价格进行结算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 601,
+    "question": "在现货模式下，用户侧的实时市场偏差电费计算依据是：",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 602,
+    "question": "政府实施发电侧反垄断政策的主要目的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 603,
+    "question": "以下()不属于《关于进一步深化电力体制改革的若干意见》\n(中发〔2015〕9号)提出的改革任务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 604,
+    "question": "以下()省(区、市)不属于《关于开展电力现货市场建设试点\n工作的通知》(发改办能源〔2017〕1453号)选定的现货试点地\n区 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 605,
+    "question": "《关于进一步做好电力现货市场建设试点工作的通知》(发改办\n体改〔2021〕339号)选定的现货试点地区不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 606,
+    "question": "《关于进一步加快电力现货市场建设工作的通知》(发改办体改\n〔2023〕813号)提出的政策要求不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 607,
+    "question": "国家发展改革委、国家能源局正式印发《电力现货市场基本规则\n(试行)》的时间是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 608,
+    "question": "《电力现货市场基本规则(试行)》属于()类政策文件。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 609,
+    "question": "根据《电力现货市场基本规则(试行)》,以下()不属于结算\n试运行和正式运行的区别。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 610,
+    "question": "关于山西电力市场规则体系，以下说法正确的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 611,
+    "question": "关于山东电力市场规则体系，以下说法正确的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 612,
+    "question": "截至2024年12月，以下()电力辅助服务品种是山东在全国范围\n内率先探索开展的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 613,
+    "question": "关于甘肃电力现货市场规则体系，以下说法正确的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 614,
+    "question": "以下()不属于《电力现货市场基本规则(试行)》明确规定的\n电力现货市场建设核心环节之一。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 615,
+    "question": "按照《电力现货市场基本规则(试行)》,以下()不属于电力\n现货市场启动结算试运行时应具备的条件。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 616,
+    "question": "按照《电力现货市场基本规则(试行)》,以下()不属于电力\n现货市场结算试运行的工作内容。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 617,
+    "question": "通过电力现货市场事前披露数据分析电力现货市场供需形势时，\n以下()数据至关重要。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 618,
+    "question": "在电力现货市场事前披露信息中，()因素直接决定了机组的最\n大发电能力。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 619,
+    "question": "以下()事前披露信息有助于判断电力现货市场的价格波动风险。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 620,
+    "question": "当系统边际电价(SMP)急剧上升时，通常意味着电力市场处于\n()状态。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 621,
+    "question": "以下()因素不是通过实时市场事中披露信息来直接分析分时电\n价趋势时考虑的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 622,
+    "question": "()是指与发电企业电能产量无直接关系的费用，这些费用不随\n电能产量的变化而变化。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 623,
+    "question": "()指与发电企业电能产量有直接关系的费用，这些费用随着电\n能产量的变化而变化。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 624,
+    "question": "()指将发电机从停机状态开机到并网产生的成本，用于机组冷\n温热态下单次启动成本补偿计算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 625,
+    "question": "()指发电企业为提供辅助服务而减少的电量收入或增加的收益\n亏损，并不是发电企业实际发生的成本。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 626,
+    "question": "在现货市场中，机组的变动成本主要考虑()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 627,
+    "question": "()指单位产量增加所需的额外成本，是发电企业在生产决策中\n重要的参考指标。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 628,
+    "question": "停机时间10小时以内的燃煤机组的启动工况为()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 629,
+    "question": "机组变动成本由空载燃料成本和边际燃料成本组成。以下空载燃\n料成本的推导流程，错误的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 630,
+    "question": "完全竞争的电力市场下，电力交易员选择按()报价是市场各参\n与者的最佳竞价策略。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 631,
+    "question": "现货市场出清是指根据()和()确定交易计划(包括交易成交\n量及其成交价格)的过程。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 632,
+    "question": "现货市场出清模型有()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 633,
+    "question": "在市场均衡分析中，()数据项用于确定电力市场的供需平衡点\no",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 634,
+    "question": "以下()不属于基于市场均衡的现货价格预测特点。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 635,
+    "question": "山西省火电机组爬坡速率申报范围为每分钟调整装机容量的()",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 636,
+    "question": "由()依据电力平衡和安全稳定约束设置的参数，包括最小连续\n开机时间和最小连续停机时间等。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 637,
+    "question": "空载费用是指发电机维持同步转速、输出电功率为()需要消耗\n的燃料费用，单位为元/小时。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 638,
+    "question": "不同类型的机组具有不同的出力范围，且随着运行时间的增加，\n出力性能可能逐渐()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 639,
+    "question": "运行日前市场的省内现货市场(结算方式一)发电机组A某日\n16:00-16:59持有的中长期合同电量为100兆瓦时，中长期交易合同\n加权价格为350元/兆瓦时，中长期结算参考点现货电价为355元/\n兆瓦时；日前出清电量为110兆瓦时，日前市场节点电价为360元\n/兆瓦时；实时上网电量为120兆瓦时，实时市场节点电价为370\n元/兆瓦时。则发电机组A该时段各项电能量电费是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 640,
+    "question": "现货市场(结算方式一)售电公司A某日16:00-16:59持有的中长期\n合同电量为100兆瓦时，中长期交易合同加权价格为350元/兆瓦\n时，中长期结算参考点现货电价为355元/兆瓦时；日前出清电量\n为110兆瓦时，日前市场节点电价为360元/兆瓦时；实时上网电\n量为120兆瓦时，实时市场节点电价为370元/兆瓦时。则售电公\n司A该时段各项电能量电费()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 641,
+    "question": "煤电容量电价按照回收煤电机组一定比例固定成本的方式确定。\n其中，用于计算容量电价的煤电机组固定成本实行全国统一标\n准，为每年每千瓦()元。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 642,
+    "question": "对纳入受电省份电力电量平衡的跨省跨区外送煤电机组，送受双\n方应当签订年度及以上中长期合同，明确煤电容量电费分摊比例\n和履约责任等内容。其中配套煤电机组，原则上执行()容量电\n价。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 643,
+    "question": "应急备用煤电机组的容量电价，由省级价格主管部门会同能源主\n管部门按照回收()的原则制定，鼓励采取竞争性招标等方式确\n定。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 644,
+    "question": "()即电压控制服务，电压控制服务是指为保障电力系统电压稳\n定，并网主体根据调度下达的电压、无功出力等控制调节指令，\n通过自动电压控制(AVC)、调相运行等方式，向电网注入、吸收\n无功功率，或调整无功功率分布所提供的服务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 645,
+    "question": "事故应急及恢复服务包括稳定切机服务、稳定切负荷服务和()",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 646,
+    "question": "调频市场相关费用分为市场补偿费用、考核费用、()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 647,
+    "question": "备用辅助服务费用根据出清价格、中标容量、中标时间三者乘积\n计算，实际备用容量低于中标容量的，按()实际备用容量结算",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 648,
+    "question": "()是指为应对可再生能源发电波动等不确定因素带来的系统净\n负荷短时大幅变化，具备较强负荷调节速率的并网主体根据调度\n指令调整出力，以维持系统功率平衡所提供的服务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 649,
+    "question": "()在电力交易平台发布结算单后，各经营主体应按照各省电力\n交易机构规定的时限登陆电力交易平台，核对结算结果无误后，\n及时在交易平台点击确认按钮。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 650,
+    "question": "应按要求发布公告，明确信用评价的工作安排，组织市场经\n营主体在规定的工作时限内提交信用评价资料。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 651,
+    "question": "不同地区对于履约保函额度的计算方式各有特色，大致可分为①\n按照信用评级等级进行计算；②按照_进行计算。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 652,
+    "question": "电价风险可以定义为，在电力市场中出现了价格不能反映    和\n电能价值的情况，不能为市场所接受，或者市场出现了极端波动\n和极端上涨下跌的价格场景，则认为发生了电价风险。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 653,
+    "question": "在电力市场中，传统的方法是使用   来识别异常电价，即价格\n突然、剧烈地波动在电价时间序列图形显示为一根长钉的形状。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 654,
+    "question": "电价波动率序列即电价序列的算术收益率序列，它是指电价相对\n的电价收益率。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 655,
+    "question": "系统备用容量主要反映的是电力市场供需状况。当系统的负荷\n(或用电量)处于高峰时，系统的备用容量较    ,此时电力市\n场中的市场出清价往往较_。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 656,
+    "question": "市场必须运行率指标为各发电商必须运行率指标之和，反映了市\n场需求对市场中各发电商的依赖程度，当其值_零时，表明市\n场对部分发电商产生了绝对的市场需求。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 657,
+    "question": "输配电价是指     提供接入系统、联网、电能输送和销售服务价\n格的总称，它是电力价格链的中游环节，具有连接发电侧和售电\n侧的桥梁作用。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 658,
+    "question": "关于电价风险评估的通常使用多种评价方法相结合，例如    \n、模糊集理论、层次分析法。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 659,
+    "question": "风险影响程度分级表从影响程度分值与影响方面两个方面来给出\n不同的标准。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 660,
+    "question": "对于风险发生的可能性也有相应的等级标准，一般风险可能性排\n序表会标注风险发生的可能性等级、   、发生情况。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 661,
+    "question": "内部电价风险泛指电力市场内部电价波动带来的不确定性，这种\n风险可能源于多种因素，其中最常见的是   。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 662,
+    "question": "在电力市场电价风险管理台账的维护中，以下()操作是不正确\n的 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 663,
+    "question": "在每    次引发信用额度、交易风险等的事件发生后(如履约保\n函到期)和每    次交易前，都对市场经营主体进行交易信用审\n核。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 664,
+    "question": "售电公司参与交易过程中，其信用额度除满足年售电量对应要求\n外，还须满足信用占用度不超过_的要求。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 665,
+    "question": "市场经营主体的交易信用额度、交易履约风险、交易信用占用额\n度等信用管理相关信息，均在    上进行信息披露。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 666,
+    "question": "假设某电力市场经营主体在一段时间内，其交易信用额度为1000\n万元，已签订的交易合同总金额为800万元，其中已履约的合同\n金额为300万元，那么该主体当前的信用占用度为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 667,
+    "question": "在电力市场中，以下()情况会导致市场经营主体的信用占用度\n降低。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 668,
+    "question": "关于电力市场中市场经营主体的信用占用度计算方法及对电力市\n场交易策略制定的影响，以下()说法是正确的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 669,
+    "question": "电力交易序列是电力市场运作的核心组成部分，它涵盖了电力的\n买卖、输送和分配等各个环节。交易序列信息表中，用于区分不\n同序列且唯一的数据项是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 670,
+    "question": "交易序列编制规格中，以下()数据项是选填的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 671,
+    "question": "交易序列编制操作流程中，“标的月份”指的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 672,
+    "question": "交易流程效率评估步骤中，首先进行的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 673,
+    "question": "在交易流程效率评估中，以下()不是效率评估指标。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 674,
+    "question": "申报规则配置是指针对交易类型，配置交易的申报规则，关联申\n报参数项。交易申报规则配置中，界面输入数据不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 675,
+    "question": "交易申报规则配置中，新增参数名称不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 676,
+    "question": "交易准入规则配置主要针对交易类型，配置可参加交易的交易单\n元的准入条件。交易准入规则配置中，以下()不是支持的功能\no",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 677,
+    "question": "交易准入规则配置主要针对交易类型，配置可参加交易的交易单\n元的准入条件。交易准入规则配置中，逻辑设置的主体列不包括\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 678,
+    "question": "交易出清规则配置中，排序和权重因子管理不包括以下()因子\n项。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 679,
+    "question": "交易出清规则配置中，以下()不是出清规则的组成部分。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 680,
+    "question": "交易出清规则配置中，排序和权重因子可以按照一定的权重系数\n进 行 ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 681,
+    "question": "交易流程配置中，关联交易流程不包括以下()方面。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 682,
+    "question": "交易流程配置中，前置条件不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 683,
+    "question": "交易序列编制规格中，交易类型是必填且为枚举类型，其数据来源 是 ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 684,
+    "question": "交易申报规则配置中，输出数据不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 685,
+    "question": "交易准入规则配置中，删除交易准入规则时，系统同时删除()",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 686,
+    "question": "交易出清规则配置中，一个出清规则可以关联多个()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 687,
+    "question": "以下()不属于电力交易平台功能优化的主要目标。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 688,
+    "question": "发电企业申报交易数据中，主要的报价数据不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 689,
+    "question": "电力交易报价数据的合规性审查中，价格是否符合要求主要避免\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 690,
+    "question": "电力交易报价数据的合规性审查中，数据是否符合要求主要指\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 691,
+    "question": "售电企业申报交易数据中，代理购电合约指的是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 692,
+    "question": "电力交易报价数据中，申报表还应包括以下数据内容，不包括\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 693,
+    "question": "电力交易报价数据错误的纠正中，当用户申报量、申报价格不符\n合平台限制条件时，应如何处理()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 694,
+    "question": "在集中撮合交易中，交易员在填报量价数据时，以下()操作是不正确的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 695,
+    "question": "挂牌交易中，以下()不是交易员在填报量价数据时需要考虑的\n0",
+    "qtype": "single",
+    "options": {},
+    "answer": "E"
+  },
+  {
+    "id": 696,
+    "question": "当交易数据出现错误时，以下()措施不是交易员进行数据纠错\n的 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "E"
+  },
+  {
+    "id": 697,
+    "question": "在年度双边协商交易中，以下()情况不可能导致交易数据填报\n失败。",
+    "qtype": "single",
+    "options": {},
+    "answer": "E"
+  },
+  {
+    "id": 698,
+    "question": "在预测市场电价时，以下()数据是电力交易员可以不收集和分析的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 699,
+    "question": "企业经济分析包括成本分析、收入分析、收益分析及()分析。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 700,
+    "question": "风电和光伏发电成本在过去十余年大幅下降，主要原因是制造技\n术的进步和()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 701,
+    "question": "发电企业收入的主要来源是()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 702,
+    "question": "售电公司提供的增值服务收入中，不包括()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 703,
+    "question": "判断企业财务状况的四大能力，通常指的是企业的偿债能力、盈\n利能力、运营能力和()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 704,
+    "question": "以下选项中，()不是企业营运能力的指标。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 705,
+    "question": "现金流量能力指标显示了企业在一定时期内生成现金和现金等价\n物的能力，可间接反映满足债务偿还、资本支出和()等需求的\n能力。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 706,
+    "question": "()负责本供电营业区内所有用于交易结算(含发电企业上网交\n易电量)的电能计量装置的计量管理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 707,
+    "question": "确定机组爬坡速率时，应考虑机组在各负荷段、各工况下的实际\n爬坡速率，并在爬坡速率上下限范围内按照()的实际爬坡速率\n确定申报值，避免在实际运行过程中因发电计划指令爬坡速率过\n快，实际爬坡速率跟踪缓慢而产生考核。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 708,
+    "question": "时间序列法是一种较为常见的()预测方法，它是针对某一时段\n零售用户负荷呈现出的某种特性，去建立用电负荷波动的模型，\n利用模型完成预测。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 709,
+    "question": "批发用户(含售电公司)在()中根据预测的负荷曲线及现货市\n场价格进行策略调整，申报策略应考虑到现货市场的价格波动，\n以及与中长期合约的匹配程度。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 710,
+    "question": "售电公司需要对日前市场和()价格关系进行预判，以制定相应\n的申报策略，规避价格波动风险及获取现货市场价差收益。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 711,
+    "question": "查询省内预出清结果的路径需要登录()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 712,
+    "question": "查询省内预出清结果的路径通常为：在电力交易平台的首页或相\n关页面中，找到“信息披露”——综合查询——()——省内机组\n预计划结果。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 713,
+    "question": "10:00-15:00时段中标出力为150MW,查看机组当日报价，\n125—150MW报价为350元/兆瓦时，150-200MW报价为400元/兆瓦\n时，200-300MW报价为420元/兆瓦时，由此可知该时段日前预出\n清电价为()元/兆瓦时。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 714,
+    "question": "通过省内现货预出清结果，结合省内机组报价可以推算出()价格。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 715,
+    "question": "省间电力现货交易是全国统一电力市场的重要组成部分，需要从\n()、市场边界和偏差处理等方面，设计省间现货交易与省间中\n长期交易、省间现货交易与省内现货交易的衔接机制。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 716,
+    "question": "新能源发电企业可以根据省内市场形势和风功率预测，做好参与\n省间日前、日内市场交易方案，利用()市场提高消纳，避免弃\n风弃光，扩大企业收益。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 717,
+    "question": "在偏差处理方面，实际运行与合同约定产生的偏差，根据(),分别\n按照省间、省内市场规则处理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 718,
+    "question": "虚拟电厂是将()的可调节负荷、储能侧和电源侧等一种或多种\n资源聚合起来，实现自主协调优化控制，参与电力系统运行和电\n力市场交易的智慧能源系统。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 719,
+    "question": "独立储能可以按月自主选择以“报量报价”或()的方式参与现货\n市场。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 720,
+    "question": "对于参与省间现货市场的煤电机组，下列()不是计算报价成本\n及潜在收益的分析对象。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 721,
+    "question": "省级电力现货市场复盘分析中，对于市场出清量价的分析主要是\n以 下 ( ) 方 面 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 722,
+    "question": "省间电力现货交易卖方市场主体申报分时“电力-价格”曲线、集中\n竞价出清，经安全校核后执行。省间电力现货交易结果纳人跨省\n区联络线计划，作为省内市场的运行边界，原则上不跟随市场主\n体的实际发用电而变化。省内现货市场运行期间，省间日内现货\n交易卖方成交结果作为()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 723,
+    "question": "省间日前现货出清后，发电企业可在()查询省间现货日内市场\n中标电量和电价。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 724,
+    "question": "省间日内现货出清后，发电企业可在()查询省间现货日内市场\n中标电量和电价。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 725,
+    "question": "()是指根据市场主体的日前市场申报数据，以机组初始状态、\n负荷预测、联络线计划等作为市场边界，考虑电网安全约束、机\n组运行约束、系统约束及其他可行性约束条件，每天分为若干个\n交易时段(如24或96个时段),按照市场规则以社会福利最大化(或购\n电费用最小、发电成本最小)等为目标函数，基于安全约束机组组\n合(SCUC)和安全约束经济调度(SCED)集中优化出清次日机组组合\n、发电计划，并形成市场出清电价。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 726,
+    "question": "以下()电力市场是先进行调频辅助服务市场出清，再开展电能\n量市场出清的。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 727,
+    "question": "根据市场主体的申报数据，以下()选项不是调频市场出清的边界条件。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 728,
+    "question": "对于服装加工业用户，其用电行为会随着()而显著变化。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 729,
+    "question": "对于金属加工业行业用户，其用电量较大，会对()敏感，尤其\n在低谷时段用电较多。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 730,
+    "question": "对于百货零售业用户，其用电量固定集中在白天和傍晚，以下\n()因数对其影响不大。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 731,
+    "question": "对于拥有光伏、储能等自备可发电设施的用户，其用电行为一定\n存 在 ( ) 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 732,
+    "question": "以下()套餐适合对价格信号敏感，愿意接受更短周期价格的零\n售用户套餐设计。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 733,
+    "question": "以下()套餐适合对价格信号反应一般，希望在稳定价格基础\n上，又愿意接受部分现货价格的零售用户套餐设计。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 734,
+    "question": "以下()套餐适合希望电价稳定的电力用户套餐设计。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 735,
+    "question": "零售用户的企业统一社会信用代码变更，需要办理市场注册的\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 736,
+    "question": "对于零售用户需要临时更换其他容量变压器的情况，在供电公司\n可以办理()业务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 737,
+    "question": "对于零售用户迁移用电设施用电地址情况，在供电公司可以办理\n()业务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 738,
+    "question": "对于零售用户移动电能计量装置安装位置的业务，简称()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 739,
+    "question": "对于零售用户暂时停止全部用电并拆表的业务，简称()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 740,
+    "question": "对于零售用户用电地址物权变化引起用电人变更的业务，简称\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 741,
+    "question": "对于电力用户需要变更用户名称的业务，简称()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 742,
+    "question": "对于电力用户用电户号一户分立为两户以上用户的业务，简称\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 743,
+    "question": "对于电力用户用电户号两户以上用户合并为一户的业务，简称\n()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 744,
+    "question": "对于电力用户和供电公司终止供用电关系的业务，简称()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 745,
+    "question": "对于电力用户改变供电电压等级的业务，简称()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 746,
+    "question": "一个配电区域允许()家售电公司开展售电业务。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 747,
+    "question": "售电公司的履约保证，应不低于过去12个月批发市场交易总电\n量，按标准不低于()元/kWh缴纳。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 748,
+    "question": "售电公司应按照过去2个月内参与批发、零售两个市场交易电量\n的大值，按标准不低于()元/kWh缴纳。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 749,
+    "question": "发电企业参与市场交易，不需要以下()项文件。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 750,
+    "question": "售电公司可自愿申请退出售电市场，应提前()个工作日向电力\n交易机构提交退出申请，明确退出原因和计划的终止交易月。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 751,
+    "question": "自愿退出市场的售电公司应在终止交易月之前通过()的方式完\n成购售电合同处理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 752,
+    "question": "自愿退出售电公司未与购售电合同各方就合同解除协商一致的，\n须(),直至购售电合同履行完毕或合同各方同意终止履行。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 753,
+    "question": "连续()个月未进行实际交易的售电公司，电力交易机构征得地\n方主管部门同意后暂停其交易资格，重新参与交易前须再次进行\n公示。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 754,
+    "question": "对于售电公司隐瞒有关情况或者以提供虚假申请材料等方式违法\n违规进入市场，且拒不整改的情况，按照()处理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 755,
+    "question": "对于售电公司严重违反市场交易规则，且拒不整改的情况，按照\n()处理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 756,
+    "question": "对于售电公司企业违反信用承诺且拒不整改的情况，按照()处理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 757,
+    "question": "对于售电公司连续3年未在任一行政区域开展售电业务的情况，\n按 照 ( ) 处 理 。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 758,
+    "question": "售电公司被强制退出，其所有已签订但尚未履行的购售电合同优\n先通过自主协商的方式，在()个工作日内完成处理。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 759,
+    "question": "售电公司管理层应制定不同客户分类群体的销售策略，这种策略\n通常以零售套餐方式或()的方式进行管控。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 760,
+    "question": "电力市场合同，原则上应在合同结束后的()年内均妥善保管。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 761,
+    "question": "在数据拟合算法中，()法的核心思想，去掉不可信的数据，取\n可信数据的均值予以替代。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 762,
+    "question": "在数据拟合算法中，()法取前后两个可信的数据，用算术平均\n予以替代。",
+    "qtype": "single",
+    "options": {},
+    "answer": "D"
+  },
+  {
+    "id": 763,
+    "question": "对于合同完成率而言，()合同完成率，常常针对发电企业与购\n电侧的售电公司、电力用户直接交易的合同实际结算值与合同约\n定值的比值。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 764,
+    "question": "对于合同完成率而言，()合同完成率，常常针对售电公司与签\n约零售用户之间实际结算值与合同约定值的比值。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 765,
+    "question": "为每份电力市场合同分配()的编号，以便识别和追踪。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 766,
+    "question": "批发侧年度合同完成率定义为批发侧市场主体签订的年度合同实\n际结算值与()的比值。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 767,
+    "question": "批发侧月度合同完成率定义为批发侧市场主体签订的月度合同实\n际结算值与()的比值。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 768,
+    "question": "零售侧年度合同结算率定义为售电公司与签约零售用户签订的年\n度合同实际结算值与()的比值。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 769,
+    "question": "零售侧月度合同结算率定义为售电公司与签约零售用户签订的年\n度合同实际结算值与()的比值。",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 770,
+    "question": "某用户最近四天的用电情况分别为：1号用电100度，2号用电数\n据丢失，3号用电200度，4号用电60度，如果用均值法拟合2号用\n电量，应为：",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 771,
+    "question": "某用户最近四天的用电情况分别为：1号用电100度，2号用电数\n据丢失，3号用电200度，4号用电60度，如果用插值法拟合2号用\n电量，应为：",
+    "qtype": "single",
+    "options": {},
+    "answer": "A"
+  },
+  {
+    "id": 772,
+    "question": "上网电价政策制定与我国不同时期电力工业发展特征和各类电源\n产业发展情况联系紧密，具有明显的阶段性特征，因此应重视\n()解读。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 773,
+    "question": "绿电交易市场中的“溢价制度”主要用于体现()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 774,
+    "question": "绿证交易制度的推广是为了解决以下()问题。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 775,
+    "question": "碳交易市场价格形成机制的设计逻辑主要基于()。",
+    "qtype": "single",
+    "options": {},
+    "answer": "C"
+  },
+  {
+    "id": 776,
+    "question": "内部核算的市场主体参与电力交易，需经()授权。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 777,
+    "question": "工商业电力用户原则上全部直接参与电力市场交易，暂未直接参\n与市场交易的工商业电力用户，按规定由()代理购电。",
+    "qtype": "single",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "id": 778,
+    "question": "据统计，ERCOT实时市场中绝大多数(超过90%)电能交易是通过\n中长期合同锁定，按照合同价格进行结算。双边合同几个基本要\n素包括(。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 779,
+    "question": "可调度用户并网要求：()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 780,
+    "question": "输配电价税金包括",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 781,
+    "question": "电力现货市场通过竞争形成体现时空价值的市场出清价格，并配\n套开展()、()等辅助服务交易。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 782,
+    "question": "我国跨省新能源消纳的空间特点是()新能源消纳困难、()绿\n电购买困难。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "D,E"
+  },
+  {
+    "id": 783,
+    "question": "发电容量需求分析的方法有：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 784,
+    "question": "影响需求弹性系数的因素有()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 785,
+    "question": "绿色电力交易的组织方式主要包括()等。可根据市场需要进一\n步拓展交易方式，鼓励发用双方签订多年期绿色电力购买协议。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 786,
+    "question": "2024-2025年省级电网煤电容量电价正确的是()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 787,
+    "question": "长久来看，售电公司实现盈利途径在于()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 788,
+    "question": "市场用户的用电价格由()等构成，促进市场用户公平承担系统\n责任。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 789,
+    "question": "天然气中硫化氢是一种比空气重，(),(),有臭鸡蛋气味的\n气体。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 790,
+    "question": "根据《关于加快建设全国统一电力市场体系的指导意见》(发改\n体改〔2022〕118号〕有关要求，到()年，全国统一电力市场\n体系基本建成，适应新型电力系统要求，国家市场与省(区、\n市)/区域市场(),新能源全面参与市场交易，市场主体平等\n竞争、自主选择，电力资源在全国范围内得到进一步优化配置。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,D"
+  },
+  {
+    "id": 791,
+    "question": "机组组合采用混合整数规划求解建模，求解器为()或()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 792,
+    "question": "电力辅助服务市场和电力现货市场具有()三方面关系",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 793,
+    "question": "绿证交易的组织方式主要包括()、()、()等，交易价格由\n市场化方式形成",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 794,
+    "question": "输电费用分摊方法包括()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 795,
+    "question": "国家电网有限公司组织实施省间电力现货市场，主要特点包括\n()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 796,
+    "question": "下列有关交易履约保函描述正确的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 797,
+    "question": "扩张性财政政策对经济的影响是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 798,
+    "question": "市场化电力用户2023年年度中长期合同签约电量应高于上一年度\n用电量的(),并通过后续季度、月度、月内合同签订，保障全\n年中长期合同签约电量高于上一年度用电量的()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 799,
+    "question": "在竞争性环境中，发电机组在决策是否退役时重点考虑的是()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 800,
+    "question": "省间中长期交易形成的联络线外送曲线，包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 801,
+    "question": "全额保障性收购范围，是指至少同时满足以下条件的可再生能源\n发电项目的上网电量：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 802,
+    "question": "下列说法描述正确的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 803,
+    "question": "目前国内电力市场常见交易组织方式有()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 804,
+    "question": "根据“关于建立煤电容量电价机制的通知发改价格〔2023〕1501号\n”,以下哪些不执行容量电价机制，具体由国家能源局另行明确\no",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 805,
+    "question": "国家发展改革委国家能源局关于建立健全电力辅助服务市场价\n格机制的通知发改价格〔2024〕196号，按照“()、()、(\n)、()”的总体原则，不断完善辅助服务价格形成机制，推动\n辅助服务费用规范有序传导分担，充分调动灵活调节资源主动参\n与系统调节积极性。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D,E"
+  },
+  {
+    "id": 806,
+    "question": "绿证交易可采取()等方式进行。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 807,
+    "question": "北京电力交易中心跨区跨省电力中长期交易实施细则(2024年\n版)明确：交易日历在年度、月度市场交易公告中明确，主要包\n括()安排等。月度市场交易公告中交易日历为次月月度及月内\n各类交易时间安排，在年度交易日历基础上细化更新。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 808,
+    "question": "售电公司应具有固定经营场所及能够满足参加市场交易的()等\n功能的电力市场技术支持系统和客户服务平台，参与电力批发市\n场的售电公司技术支持系统应能接入电力交易平台。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 809,
+    "question": "哪些因素可以影响电力需求预测的准确性?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 810,
+    "question": "关于建立煤电容量电价机制的通知提出，煤电容量电价按照回收\n煤电机组一定比例固定成本的方式确定。其中，用于计算容量电\n价的煤电机组固定成本实行全国统一标准，为每年每千瓦\n330元；通过容量电价回收的固定成本比例，综合考虑各地电力\n系统需要、煤电功能转型情况等因素确定，2024～2025年多数地\n方为()左右，部分煤电功能转型较快的地方适当高一些，为\n()左右。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 811,
+    "question": "根据《电力现货市场基本规则》,市场限价应综合考虑()等因\n素，经科学测算后按规则规定合理确定，并适时调整。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 812,
+    "question": "《关于加强绿色电力证书与节能降碳政策衔接大力促进非化石能\n源消费的通知》(发改环资〔2024〕113号)强调，在“十四五”省\n级人民政府节能目标责任评价考核指标核算中，实行以()为基\n础、()为补充的可再生能源消费量扣除政策。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,D"
+  },
+  {
+    "id": 813,
+    "question": "对全国()、地热能发电、海洋能发电等已建档立卡的可再生能\n源发电项目所生产的全部电量核发绿证。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 814,
+    "question": "各类()均包含环保电价，各机组市场化电量对应的环保电价不|\n再另行结算。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 815,
+    "question": "现阶段，信用管理对象为参与电力市场的()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 816,
+    "question": "推进电力市场建设，需要规划电力市场体系建设的总体方案，通\n过顶层设计，(),以实现能源革命的战略目标。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 817,
+    "question": "除居民农业重要公用事业和公益性服务等行业电力用户以及电力\n生产供应所必需()之外，其他电力用户均属于经营性电力用户\no",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 818,
+    "question": "一方面，由于一定时期内水库的入库流量是有限的，从而导致调\n度期内各时段用水相互制约；另一方面，水电企业的()使得水\n电站任意时段的运行方式都将影响所有后续时段的运行。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 819,
+    "question": "截至2024年6月底，我国进入电力现货交易正式运行的省份有?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 820,
+    "question": "交易机构主要负责的内容包括：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 821,
+    "question": "交易机构发布的市场主体基本情况，包括()的名单。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 822,
+    "question": "我国《电力现货市场基本规则(试行)》发改能源规〔2023〕\n1217号明确参加电力市场交易的经营主体应是()的经济实体",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 823,
+    "question": "下列关于生产技术中边际产量的说法中，错误的有()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 824,
+    "question": "根据国家第三周期输配电价政策文件规定，系统运行费用包括(\n) 、  ( ) 等 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 825,
+    "question": "连续()个月未进行实际交易的售电公司，电力交易机构征得地\n方主管部门同意后暂停其交易资格；连续()月未在任一行政区\n域开展售电业务的，启动强制退出程序",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,D"
+  },
+  {
+    "id": 826,
+    "question": "电力市场购买代理模式的形式：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 827,
+    "question": "对于绿色电力交易的用户，其用电价格由()等构成",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 828,
+    "question": "系统机房一般选择在具有0等能力的建筑内，具有有效防水、防\n潮、防火、防静电、防雷击、防盗窃、防破坏措施。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 829,
+    "question": "分裂导线的主要目的是()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 830,
+    "question": "建立完备的电力现货市场必须具有完全竞争市场所需的哪几个条件 ( )",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 831,
+    "question": "容量市场采用较长的时间跨度的优点有以下哪些()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 832,
+    "question": "当前国内外辅助服务产品的定价方式有()、市场化竞标和实时\n竞价6种。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 833,
+    "question": "为有效应对价格波动风险，可采用的风险管控手段包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 834,
+    "question": "电能量交易按照交易周期分为()和()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 835,
+    "question": "省间绿电交易针对组织方式描述正确的是()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 836,
+    "question": "大容量储能的主要作用有()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 837,
+    "question": "北京电力交易中心跨区跨省电力中长期交易实施细则中市场成员\n包 括 ( ) 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 838,
+    "question": "临时用电的用户，对不具备安装条件的，可按其()计收电费。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 839,
+    "question": "电力市场化改革后，电力调度中心主要负责运营电力系统，其职责包含：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 840,
+    "question": "售电公司可售电量应同时满足",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 841,
+    "question": "我国输配电价长期执行交差补贴，主要体现为    。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 842,
+    "question": "2011年7月，英国能源部正式发布了《电力市场化改革白皮书\n(2011)》,开始酝酿以促进低碳电力发展为核心的新一轮电力市\n场化改革。英国新一轮改革以保障供电安全、实现能源脱碳化及\n电力用户负担成本戢小为目标，改革主要内容包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 843,
+    "question": "电力金融市场的分类?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 844,
+    "question": "售电公司有()情形之一的，经地方主管部门和能源监管机构\n调查确认后，启动强制退出程序。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 845,
+    "question": "碳排放权交易及相关活动的管理，应当遵循()的原则。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 846,
+    "question": "辅助服务市场中备用市场中标因素有下列哪些?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 847,
+    "question": "根据《中共中央国务院关于完整准确全面贯彻新发展理念做好\n碳达峰碳中和工作的意见》,到2030年，经济社会发展全面绿色\n转型取得显著成效，重点耗能行业能源利用效率达到国际先进水\n平。单位国内生产总值能耗大幅下降；单位国内生产总值二氧化\n碳排放比2005年下降()以上；非化石能源消费比重达到()左\n右，风电、太阳能发电总装机容量达到12亿千瓦以上",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 848,
+    "question": "现阶段，国内绿证作为可再生能源电力消费凭证，用于()、\n( ) 等 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 849,
+    "question": "一般来说，天然气主要成份是(),约占90%以上，此外还有少\n量的()、()、硫化氢，一氧化碳，二氧化碳等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,D"
+  },
+  {
+    "id": 850,
+    "question": "出清算法的匹配调用需要市场()协作实现。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 851,
+    "question": "调度机构在开展现货前应做好哪些准备?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 852,
+    "question": "总体来看，电力现货市场正式运行前的建设步骤按阶段华为大致\n包括市场筹备、编制市场建设方案()等典型步骤。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 853,
+    "question": "《国家能源局关于印发<电力市场信息披露基本规则>的通知》\n(国能发监管〔2024〕9号)文件规定，出现()行为时，将被\n处罚?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 854,
+    "question": "现货市场的输电阻塞管理，派生出特定的输电权市场，有()和\n()之分",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 855,
+    "question": "负荷与发电不平衡在时间特性上表现的形式有()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 856,
+    "question": "价格波动是由()引发。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,D"
+  },
+  {
+    "id": 857,
+    "question": "电力现货市场建设与运营应坚持()原则。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 858,
+    "question": "新型储能具有响应快、配置灵活、建设周期短等优势，可在电力\n运行中发挥()等多种作用，是构建新型电力系统的重要组成部\n分。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 859,
+    "question": "根据《电力中长期交易基本规则》,采用()相结合的方式，推\n动优先发电参与市场，不断提高跨区跨省优先发电中“保量竞价”\n的比例，应放尽放，实现优先发电与优先购电规模相匹配。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 860,
+    "question": "已经选择市场化交易的发电企业和电力用户，有()情形之一\n的，可办理正常退市手续。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 861,
+    "question": "《关于加快推进电力现货市场建设工作的通知》指出构建主要由\n市场形成新能源价格的电价机制，推动新能源自愿参与电力交\n易，充分体现新能源的()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 862,
+    "question": "在北京电力交易中心有限公司关于印发《北京电力交易中心绿色\n电力交易实施细则(修订稿)》的通知中，市场主体对披露的信\n息内容、时限等有异议或者疑问时，可以向哪些机构提出()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 863,
+    "question": "《关于进一步推动新型储能参与电力市场和调度运用》的通知中\n提出：新型储能具有响应快、配置灵活、建设周期短等优势，可\n在电力运行中(  )等多种作用，是构建新型电力系统的重要\n组成部分。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 864,
+    "question": "推进输配电价改革的基本原则包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 865,
+    "question": "为夯实绿证核发和交易基础，需做到()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 866,
+    "question": "一般省间交易校核是由哪几部分组成()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 867,
+    "question": "向用户侧主体收取电费的结算账单应包括()政府性基金及附加。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 868,
+    "question": "电力网络安全事件预警等级分别用(     )表示，分别对应发\n生或可能发生特别重大、重大、较大和一般电力网络安全事件。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 869,
+    "question": "可靠性机组组合以0最小为优化目标。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 870,
+    "question": "零售市场管理具有哪些流程",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D,E"
+  },
+  {
+    "id": 871,
+    "question": "输电网络的变动损耗大体上可以近似表示为()的()函数",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 872,
+    "question": "能最大限度保证网损分摊合理性的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 873,
+    "question": "新时期电力市场建设目标由以往提高电力行业运行效率的单一目\n标向()的目标转变。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 874,
+    "question": "输配电价的主要定价方法",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 875,
+    "question": "售电公司注册、运营和退出，坚持()原则。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 876,
+    "question": "绿证交易采取()等方式进行。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 877,
+    "question": "电力交易机构的权利和义务主要包括：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 878,
+    "question": "省间电力现货中，风险干预市场运营机构应记录信息不包括()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 879,
+    "question": "售电公司的权利和义务主要包括：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 880,
+    "question": "以下属于电化学储能的是_",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 881,
+    "question": "交易基本信息应包含",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 882,
+    "question": "调频性能系数由()三个分项参数乘积或加权平均确定，分项参\n数以当地性能最优煤电机组主机(不含火储联合机组)对应的设\n计参数为基准折算",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 883,
+    "question": "我国电力现货市场建设任务重，时间紧，需按照逐步分阶段、分\n目标任务开展各项建设任务，确保如期启动电力现货市场试运行\n。根据各试点省份的现货市场设计方案，现货市场运行一般划分\n为()、()、()三个阶段。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 884,
+    "question": "()是一种标准化的合约，必须在期货交易所进行，对合约的数\n量、价格、交割地点等都有严格的规定，对市场成员的信用也有\n严格的管理。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 885,
+    "question": "根据《国家发展改革委关于第三监管周期省级电网输配电价及有\n关事项的通知》,系统运行费用包括()、()等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 886,
+    "question": "实时市场中电价波动的主要因素有哪些",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 887,
+    "question": "根据《2024—2025年节能降碳行动方案》中要求，化石能源消费\n减量替代行动，严格合理控制煤炭消费，主要措施包括：()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 888,
+    "question": "实时市场出清启动支持()等方式",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 889,
+    "question": "售电公司至少拥有1名高级职称和3名中级职称的专业管理人\n员，技术职称包括()等相关专业。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 890,
+    "question": "《关于享受补贴风、光项目参与绿电交易有关事项的通知》发改\n体改〔2023〕75号明确了()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 891,
+    "question": "电力现货市场的交易类型通常包括哪些?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 892,
+    "question": "电力市场营销中，有效的客户关系管理(CRM)包括哪些要素?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 893,
+    "question": "截至2024年6月，国内()省份电力现货市场已转为正式运行。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 894,
+    "question": "以下为调频市场申报类数据的是(   )",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 895,
+    "question": "我国《电力现货市场基本规则(试行)》发改能源规〔2023〕\n1217号明确电力现货市场近期建设主要任务之一是建设()的框\n架，构建省间、省(区、市)/区域现货市场，建立健全日前、\n日内、实时市场。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 896,
+    "question": "根据《售电公司管理办法》(发改体改规〔2021〕1595号)规\n定，售电公司未按时足额缴纳履约保函、保险，经电力交易机构\n书面提醒仍拒不足额缴纳的，应对其实施以下措施?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 897,
+    "question": "电力监管机构根据工作需要，对()披露信息的情况进行不定期\n抽查，并将抽查情况向社会公布。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 898,
+    "question": "电力现货市场技术支持系统系统安全防护遵循“()”基本原则，\n构建隔离缓冲区与电力交易机构进行数据安全交互，对申报数据\n等关键业务数据采取加密签名、安全存储与访问控制措施，强化\n关键业务数据的安全监管、审计监测和抗抵赖性",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 899,
+    "question": "根据《关于建立健全电力辅助服务市场价格机制的通知》,调频\n费用根据()、()、()三者乘积计算。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 900,
+    "question": "电力市场运营机构违反本规则规定，有下列情形之一的，按照《\n电力监管条例》第三十三条的规定处理：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 901,
+    "question": "鼓励()分时段交易以双边协商为主，月度分时段交易以集中竞\n价为主，电网企业代理购电市场化采购方式按国家相关政策执行",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 902,
+    "question": "假定货币需求不变，紧缩货币政策将导致()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 903,
+    "question": "绿证交易将依托中国绿色电力证书交易平台、()开展绿证交\n易，具体由()和()采取双边协商、挂牌、集中竞价等方式进\n行。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 904,
+    "question": "履约保函(Prudential Deposit):又称信用保证书，是指()应\n申请人或企业的请求，向受益人或企业及第三方(电力交易机\n构)开立的一种书面信用担保凭证",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 905,
+    "question": "优化分时电价机制包括()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 906,
+    "question": "哪些政策可以促进可再生能源的发展?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 907,
+    "question": "按照《售电公司业务标准化(3.0版)指导意见》通知中，以下属\n于“考核有果、激励有效”建设目标的是。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 908,
+    "question": "现货市场的出清机制，是基于市场成员申报信息以及电网运行边\n界条件，采用()和()进\n行优化计算，出清得到日前市场交易结果。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 909,
+    "question": "功率预测考核主要有哪几项()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 910,
+    "question": "引导()等新型市场主体，以及增量配电网、微电网内的市场主\n体参与现货市场。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 911,
+    "question": "中长期合约要素主要包括()等要素，以电子合同的方式签订。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 912,
+    "question": "一般来说，城市(工业)供热系统一般由三部分组成，即()、\n( ) 和 ( ) 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 913,
+    "question": "电价价外征收的主要项目包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,E"
+  },
+  {
+    "id": 914,
+    "question": "电力市场结算不得设置不平衡资金池，每项结算项目均需独立记\n录，分类明确疏导。所有结算项目的分摊(返还)应根据()原\n则事先商定分摊(返还)方式，明确各方合理的权利与义务。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 915,
+    "question": "国家能源部门负责制定可再生能源电力证书的()办法，具备交\n易规则等国家下达具体规定后，另行编制。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 916,
+    "question": "电力市场中参与零售交易的市场主体包括：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 917,
+    "question": "根据《关于深化电力现货市场建设试点工作的意见》中对合理选\n择现货市场价格形成机制的描述中，当各电力现货试点地区的电\n网结构和阻塞情况时，可选择采用()等价格机制。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 918,
+    "question": "挂牌出售认购形式下认购方提交的证书认购数量可以出售方在认\n购中的未成交数量。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 919,
+    "question": "《全额保障性收购可再生能源电量监管办法》,适用于()、\n( ) 、  ( ) 、  ( ) 、  ( ) 等 非 水 可 再 生 能 源 发 电 。 水 力\n发电参照执行。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 920,
+    "question": "电力现货市场模拟试运行的启动条件有哪些()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 921,
+    "question": "经济利润等于()和()之差。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C"
+  },
+  {
+    "id": 922,
+    "question": "SCED通过哪两步法缓解非竞争的网络拥堵()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 923,
+    "question": "电力现货市场的交易规则通常包括哪些内容?",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 924,
+    "question": "在合规性审查中，以下()是审查机构可能关注的重点。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 925,
+    "question": "以下()行为可能导致交易员在合规性审查中受到处罚。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 926,
+    "question": "在进行合规性审查时，以下()文件是交易员需要准备的。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 927,
+    "question": "电力交易机构负责市场交易相关的信息披露，主要包括()等信息。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 928,
+    "question": "发电企业应当披露的公开信息包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 929,
+    "question": "在分析市场趋势时，以下()长期因素是电力交易员需要考虑的\no",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 930,
+    "question": "交易中心有()权责。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 931,
+    "question": "市场竞争所需信息应当充分披露，信息披露主体对其提供信息的\n()负责。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,E"
+  },
+  {
+    "id": 932,
+    "question": "企业的盈利能力包括净利率、()等指标。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,E"
+  },
+  {
+    "id": 933,
+    "question": "市场运营机构应当向特定市场主体披露其私有信息包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 934,
+    "question": "零售用户用能预测方法分为两种，分别为()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 935,
+    "question": "关于电力中长期交易结果的发布与异议处理，以下说法正确的\n是 ：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 936,
+    "question": "零售用户用能预测方法中的智能预测法包含()等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 937,
+    "question": "关于偏差电量的处理机制，以下说法正确的是：",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 938,
+    "question": "正常在运情况下，煤电机组无法按照调度指令(跨省跨区送电按\n合同约定，下同)提供申报最大出力的，月内发生两次扣减当月\n容量电费的(),发生三次扣减(),发生四次及以上扣减()",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,E"
+  },
+  {
+    "id": 939,
+    "question": "在《电力中长期交易基本规则》中，系统月度实际用电需求与月\n度发电计划存在偏差时，可通过以下()机制进行处理。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 940,
+    "question": "根据《电力市场信息披露基本规则》,以下()主体负责披露交\n易结果信息。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 941,
+    "question": "电力交易人员在组织与协调过程中需要具备()能力。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,E"
+  },
+  {
+    "id": 942,
+    "question": "账号权限设置可以采用()方法。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 943,
+    "question": "电子签章的管理涉及()方面。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 944,
+    "question": "基于市场经营主体的信用占用度的信用管理策略，以下()措施\n是有效的。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 945,
+    "question": "有功平衡服务包括(、0、0、0、0等电力辅助服务。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 946,
+    "question": "省级现货交易平台储能交易单元的运行参数包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 947,
+    "question": "在数据填报完成后，以下()步骤是交易员需要进行以确保合规性的。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  },
+  {
+    "id": 948,
+    "question": "《关于加快建设全国统一电力市场体系的指导意见》(发改体改\n〔2022〕118号)提出全国统一电力市场体系的典型特征包括\n()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 949,
+    "question": "独立储能选择“报量报价”方式时，需自主决策申报()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 950,
+    "question": "在省间现货市场供需形势分析中，分析省间现货市场的整体运行\n状况，包括以下()内容。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 951,
+    "question": "在进行数据填报的合规性审查时，以下()情况是需要重点关注\n的 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,E"
+  },
+  {
+    "id": 952,
+    "question": "《关于进一步深化燃煤发电上网电价市场化改革的通知》(发改\n价格〔2021〕1439号)做出的主要政策规定包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,E"
+  },
+  {
+    "id": 953,
+    "question": "对于省级现货市场，以下()选项属于市场分析复盘的要点。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 954,
+    "question": "按照《关于第三监管周期省级电网输配电价及有关事项的通知》\n(发改价格〔2023〕526号),工商业用户用电价格组成部分包\n括 ( ) 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 955,
+    "question": "在数据填报过程中，以下()做法是电力交易员应当遵守的。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D,E"
+  },
+  {
+    "id": 956,
+    "question": "《电力现货市场基本规则(试行)》提出的近期电力现货市场建\n设任务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 957,
+    "question": "实时市场出清基于()等信息。在日前与日内滚动机组组合确定\n的机组开停机组合基础上，采用SCED算法，每5min滚动计算未\n来15min至2h的机组出力计划及价格等，滚动更新频率和前瞻时\n间以省区具体规则为准。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 958,
+    "question": "《电力现货市场基本规则(试行)》提出的中远期电力现货市场\n建设任务包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D,E"
+  },
+  {
+    "id": 959,
+    "question": "在进行年度双边协商交易的数据填报时，以下()步骤是必要的\no",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 960,
+    "question": "售电公司对电力用户的调查问卷，应包括以下()内容。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 961,
+    "question": "关于《电力现货市场基本规则(试行)》提出的两种结算方式，\n表述正确的是()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D,E"
+  },
+  {
+    "id": 962,
+    "question": "以“点对网”方式参与跨省跨区调频辅助服务交易的电源，其调频\n辅助服务结算单中的结算科目包括：()、()、AGC考核费用\n、省内补偿分摊、()、()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 963,
+    "question": "在填报电价数据时，以下()情况可能导致合规性问题。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 964,
+    "question": "针对电力市场开发过程中可能面临的风险，可以采取以下()防范措施。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 965,
+    "question": "在零售侧套餐设计中，考虑分时电价的传到，经常设计以()时\n段的不同套餐类型。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 966,
+    "question": "发电企业在电力市场中的信用表现，包括但不限于以下()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,E"
+  },
+  {
+    "id": 967,
+    "question": "在年度双边协商交易中，以下()行为是合规的。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D,E"
+  },
+  {
+    "id": 968,
+    "question": "面向现货市场，用电的电力曲线的(),以及电力曲线的(),\n将影响整个交易的行为。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 969,
+    "question": "零售用户注册信息变更，可以分为()和()变更。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 970,
+    "question": "对于零售用户，以下()内容，不涉及注册信息中销户退市业务\n○",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 971,
+    "question": "按照《电力现货市场基本规则(试行)》,启动电力现货市场模\n拟试运行时应满足的条件包括()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,C,D"
+  },
+  {
+    "id": 972,
+    "question": "《电力市场信息披露基本规则》(国能发监管〔2024〕9号)主\n要内容包括()等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 973,
+    "question": "政策文件的内容和要求是指政策文件规定的实施范围、具体()\n、责任、监督等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C,D"
+  },
+  {
+    "id": 974,
+    "question": "结合(),根据政策文件提出的实施路径、关键举措，分析和思\n考政策实施的目的和作用，对市场、企业发展产生的影响及变化\n趋势。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,D"
+  },
+  {
+    "id": 975,
+    "question": "解读政策文件，通过收集相关资料，采取()等方法，找出政策\n文件的依据、来源、变化、影响等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D,E"
+  },
+  {
+    "id": 976,
+    "question": "通过分析政策文件，应掌握政策文件的()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 977,
+    "question": "在供电业务中，涉及到电力用户()业务，需要办理改类。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,D"
+  },
+  {
+    "id": 978,
+    "question": "在供电业务中，涉及到电力用户改变行业分类、交费方式、银行\n账号、增值税信息的业务，不需要办理以下()业务。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 979,
+    "question": "售电公司可以采取多种方式通过电力市场购售电，可通过电力交\n易平台开展()交易。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,D"
+  },
+  {
+    "id": 980,
+    "question": "电力用户通过解读《电力中长期交易基本规则》(发改能源规〔\n2020〕889号)“准入与退出”内容，应关注到()等与自身相关内\n容。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 981,
+    "question": "售电公司可向用户提供以下()服务。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 982,
+    "question": "售电公司可根据用户授权掌握历史用电信息，在电力交易平台进\n行 数 据 ( ) 和 ( ) 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 983,
+    "question": "售电公司在()和(或)()前，应通过以下额度的最大值向电力\n交易机构提交履约保函或者履约保险等履约保障凭证。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "D,E"
+  },
+  {
+    "id": 984,
+    "question": "《电力中长期交易基本规则-绿色电力交易专章》(发改能源〔\n2024〕1123号)的印发目的包括()等。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 985,
+    "question": "电力交易机构负责信用评价资料、数据等信息的汇集、管理，相\n关数据应    、—, 。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 986,
+    "question": "在中长期交易的组织中，交易公告明确()以及最后成交结果的\n执行时间的公告。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 987,
+    "question": "在滚动撮合交易中，以下()操作是交易员在填报量价数据时需要执行的。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 988,
+    "question": "电力现货市场事前披露可能包含()信息。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D,E"
+  },
+  {
+    "id": 989,
+    "question": "交易申报时间是指交易申报的()时间。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 990,
+    "question": "以下()是电力现货市场事前披露信息的分析指标。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 991,
+    "question": "电力市场电价风险通常表现为三类：   、_、_。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C"
+  },
+  {
+    "id": 992,
+    "question": "现货交易中，以下()因素会影响交易员填报的量价数据。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 993,
+    "question": "在绿电交易的组织中，需要明确()。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "C,E"
+  },
+  {
+    "id": 994,
+    "question": "市场经营主体应建立一套具备反馈机制的完善的风险评估体系，\n通过     和      等方法分析电价波动对其业务的影响。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B"
+  },
+  {
+    "id": 995,
+    "question": "如售电公司未按时足额缴纳履约保函、保险，经书面提醒仍拒不\n足额缴纳的，售电公司可能面临以下()惩戒措施。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 996,
+    "question": "售电公司失信行为将在以下()平台上予以公示。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "B,C"
+  },
+  {
+    "id": 997,
+    "question": "如售电公司未按时足额缴纳履约保函、保险，经书面提醒仍拒不\n足额缴纳的，售电公司()人员面临惩戒措施。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "D,E"
+  },
+  {
+    "id": 998,
+    "question": "以下()信息有助于评估电力现货市场交易策略的盈利潜力。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D"
+  },
+  {
+    "id": 999,
+    "question": "在电力实时市场信息披露中，以下()指标用于评估供需平衡状态。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,C,D,E"
+  },
+  {
+    "id": 1000,
+    "question": "电力交易机构向经营主体出具的绿色电力交易结算依据包含以下\n()内容。",
+    "qtype": "multiple",
+    "options": {},
+    "answer": "A,B,D"
+  }
+]
