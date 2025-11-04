@@ -11,6 +11,19 @@ def load_questions():
 
 questions = load_questions()
 
+# 新增判断题题库
+JUDGE_FILE = os.path.join(BASE_DIR, "judge_questions.json")
+
+@st.cache_data
+def load_judge():
+    if not os.path.exists(JUDGE_FILE):
+        return []
+    with open(JUDGE_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+judge_questions = load_judge()
+
+
 st.set_page_config(page_title="刷题系统", layout="centered")
 st.title("开始刷题吧")
 
@@ -24,17 +37,28 @@ st.sidebar.write(f"题目总数: {total}")
 st.sidebar.write(f"单选: {single_count}，多选: {multi_count}")
 
 # 选择与启动
-qtype = st.selectbox("选择题型", ["全部", "单选", "多选"])
+qtype = st.selectbox("选择题型", ["全部", "单选", "多选", "判断题"])
+
 count = st.number_input("题数", min_value=1, max_value=total, value=min(20, total))
 shuffle = st.checkbox("打乱顺序", value=True)
 
 if st.button("开始刷题"):
+    # if qtype == "单选":
+    #     pool = [q for q in questions if q['qtype'] == 'single']
+    # elif qtype == "多选":
+    #     pool = [q for q in questions if q['qtype'] == 'multiple']
+    # else:
+    #     pool = questions.copy()
+
     if qtype == "单选":
         pool = [q for q in questions if q['qtype'] == 'single']
     elif qtype == "多选":
         pool = [q for q in questions if q['qtype'] == 'multiple']
+    elif qtype == "判断题":
+        pool = judge_questions.copy()
     else:
-        pool = questions.copy()
+        pool = questions + judge_questions
+
 
     if shuffle:
         random.shuffle(pool)
@@ -67,20 +91,44 @@ if 'pool' in st.session_state and st.session_state.get('index', 0) < len(st.sess
         disabled = bool(st.session_state.get('show_feedback', False))
 
         # 渲染选择控件
-        if q['qtype'] == 'multiple':
+        # if q['qtype'] == 'multiple':
+        #     selected = st.multiselect(
+        #         "请选择（多选）",
+        #         options=choices,
+        #         format_func=lambda x: f"{x}. {opts[x]}",
+        #         disabled=disabled
+        #     )
+        # else:
+        #     selected = st.radio(
+        #         "请选择（单选）",
+        #         options=choices,
+        #         format_func=lambda x: f"{x}. {opts[x]}",
+        #         disabled=disabled,
+        #         index=None  # 默认不选
+        #     )
+
+        if q['qtype'] == 'judge':
+            selected = st.radio(
+                "请选择（判断题）",
+                options=list(q['options'].keys()),
+                format_func=lambda x: f"{x}. {q['options'][x]}",
+                disabled=disabled,
+                index=None
+            )
+        elif q['qtype'] == 'multiple':
             selected = st.multiselect(
                 "请选择（多选）",
-                options=choices,
-                format_func=lambda x: f"{x}. {opts[x]}",
+                options=list(q['options'].keys()),
+                format_func=lambda x: f"{x}. {q['options'][x]}",
                 disabled=disabled
             )
         else:
             selected = st.radio(
                 "请选择（单选）",
-                options=choices,
-                format_func=lambda x: f"{x}. {opts[x]}",
+                options=list(q['options'].keys()),
+                format_func=lambda x: f"{x}. {q['options'][x]}",
                 disabled=disabled,
-                index=None  # 默认不选
+                index=None
             )
 
         # 如果在显示反馈（答错场景），展示正确答案并提供“下一题”按钮
