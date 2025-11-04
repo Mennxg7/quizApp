@@ -76,8 +76,8 @@ if 'pool' in st.session_state and st.session_state.get('index',0) >= len(st.sess
     st.write("答题详情：")
     for i, h in enumerate(st.session_state.get('history',[])):
         mark = '✔' if h['is_correct'] else '✖'
-        st.write(f\"{i+1}. {h['question']}    你的答案: {h['user']}    正确: {h['correct']}    {mark}\")
-    if st.button("再来一轮"):
+        st.write(f"{i+1}. {h['question']}    你的答案: {h['user']}    正确: {h['correct']}    {mark}")
+    if st.button("Again !"):
         del st.session_state['pool']
         del st.session_state['index']
         del st.session_state['correct']
