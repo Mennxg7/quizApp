@@ -6,8 +6,8 @@ QUESTIONS_FILE = os.path.join(BASE_DIR, "questions.json")
 
 @st.cache_data
 def load_questions():
-with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
-return json.load(f)
+    with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 questions = load_questions()
 
