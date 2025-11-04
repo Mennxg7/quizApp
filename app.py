@@ -12,7 +12,7 @@ def load_questions():
 questions = load_questions()
 
 st.set_page_config(page_title="刷题系统", layout="centered")
-st.title("刷题系统（Streamlit 版本）")
+st.title("刷题系统")
 
 total = len(questions)
 single_count = sum(1 for q in questions if q['qtype']=='single')
@@ -41,44 +41,69 @@ if st.button("开始刷题"):
     st.session_state['correct'] = 0
     st.session_state['history'] = []
 
-if 'pool' in st.session_state and st.session_state.get('index',0) < len(st.session_state['pool']):
-    q = st.session_state['pool'][st.session_state['index']]
-    st.write(f"**第 {st.session_state['index']+1} / {len(st.session_state['pool'])} 题**")
-    st.write(q['question'])
-    opts = q.get('options', {})
-    choices = list(opts.keys())
-    choices.sort()
-    if not choices:
-        st.warning("本题没有选项数据，请检查题库。")
+if 'pool' in st.session_state and st.session_state.get('index', 0) < len(st.session_state['pool']):
+q = st.session_state['pool'][st.session_state['index']]
+st.write(f"**第 {st.session_state['index']+1} / {len(st.session_state['pool'])} 题**")
+st.write(q['question'])
+opts = q.get('options', {})
+choices = list(opts.keys())
+choices.sort()
+
+```
+if not choices:
+    st.warning("本题没有选项数据，请检查题库。")
+else:
+    # 显示选择框
+    if q['qtype'] == 'multiple':
+        selected = st.multiselect("请选择（多选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
     else:
-        if q['qtype'] == 'multiple':
-            selected = st.multiselect("请选择（多选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
-        else:
-            selected = st.radio("请选择（单选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
-        if st.button("提交/下一题"):
-            user = ','.join(sorted([s.strip().upper() for s in selected])) if isinstance(selected, list) else (selected.strip().upper() if isinstance(selected, str) else '')
-            corr = q.get('answer','').upper().replace('，',',')
-            user_set = set([x for x in user.split(',') if x])
-            corr_set = set([x for x in corr.split(',') if x])
-            is_correct = user_set == corr_set
-            if is_correct:
-                st.session_state['correct'] += 1
-            st.session_state['history'].append({'id': q['id'], 'question': q['question'], 'user': user, 'correct': corr, 'is_correct': is_correct})
+        selected = st.radio("请选择（单选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
+    
+    # 提交按钮
+    if st.button("提交答案") and selected:
+        user = ','.join(sorted([s.strip().upper() for s in selected])) if isinstance(selected, list) else (selected.strip().upper() if isinstance(selected, str) else '')
+        corr = q.get('answer','').upper().replace('，',',')
+        user_set = set([x for x in user.split(',') if x])
+        corr_set = set([x for x in corr.split(',') if x])
+        is_correct = user_set == corr_set
+        
+        # 更新历史和分数
+        if 'history' not in st.session_state:
+            st.session_state['history'] = []
+        st.session_state['history'].append({'id': q['id'], 'question': q['question'], 'user': user, 'correct': corr, 'is_correct': is_correct})
+        
+        if is_correct:
+            st.session_state['correct'] += 1
+            st.success("✔ 回答正确！自动进入下一题")
             st.session_state['index'] += 1
             st.experimental_rerun()
+        else:
+            st.error(f"✖ 回答错误！正确答案是: {corr}")
+            # 设置标志表示“等待用户点击下一题”
+            st.session_state['awaiting_next'] = True
 
-if 'pool' in st.session_state and st.session_state.get('index',0) >= len(st.session_state['pool']):
-    st.success("已完成全部题目！")
-    correct = st.session_state.get('correct',0)
-    total_done = len(st.session_state['pool'])
-    pct = round(100.0 * correct / total_done, 2) if total_done>0 else 0.0
-    st.write(f"得分: {correct} / {total_done} （{pct}%）")
-    st.write("答题详情：")
-    for i, h in enumerate(st.session_state.get('history',[])):
-        mark = '✔' if h['is_correct'] else '✖'
-        st.write(f"{i+1}. {h['question']}    你的答案: {h['user']}    正确: {h['correct']}    {mark}")
-    if st.button("再来一轮"):
-        for key in ['pool','index','correct','history']:
-            if key in st.session_state:
-                del st.session_state[key]
-        st.experimental_rerun()
+    # 如果上次答错并且等待下一题
+    if st.session_state.get('awaiting_next', False):
+        if st.button("下一题"):
+            st.session_state['index'] += 1
+            st.session_state['awaiting_next'] = False
+            st.experimental_rerun()
+```
+
+# 全部完成
+
+if 'pool' in st.session_state and st.session_state.get('index', 0) >= len(st.session_state['pool']):
+st.success("已完成全部题目！")
+correct = st.session_state.get('correct',0)
+total_done = len(st.session_state['pool'])
+pct = round(100.0 * correct / total_done, 2) if total_done>0 else 0.0
+st.write(f"得分: {correct} / {total_done} （{pct}%）")
+st.write("答题详情：")
+for i, h in enumerate(st.session_state.get('history',[])):
+mark = '✔' if h['is_correct'] else '✖'
+st.write(f"{i+1}. {h['question']}    你的答案: {h['user']}    正确: {h['correct']}    {mark}")
+if st.button("再来一轮"):
+for key in ['pool','index','correct','history','awaiting_next']:
+if key in st.session_state:
+del st.session_state[key]
+st.experimental_rerun()
