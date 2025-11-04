@@ -1,13 +1,13 @@
 import streamlit as st
 import random, json, os
 
-BASE_DIR = os.path.dirname(__file__)
+BASE_DIR = os.path.dirname(**file**)
 QUESTIONS_FILE = os.path.join(BASE_DIR, "questions.json")
 
 @st.cache_data
 def load_questions():
-    with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
+return json.load(f)
 
 questions = load_questions()
 
@@ -27,19 +27,22 @@ count = st.number_input("题数", min_value=1, max_value=total, value=min(20, to
 shuffle = st.checkbox("打乱顺序", value=True)
 
 if st.button("开始刷题"):
-    if qtype == "单选":
-        pool = [q for q in questions if q['qtype']=='single']
-    elif qtype == "多选":
-        pool = [q for q in questions if q['qtype']=='multiple']
-    else:
-        pool = questions.copy()
-    if shuffle:
-        random.shuffle(pool)
-    pool = pool[:count]
-    st.session_state['pool'] = pool
-    st.session_state['index'] = 0
-    st.session_state['correct'] = 0
-    st.session_state['history'] = []
+if qtype == "单选":
+pool = [q for q in questions if q['qtype']=='single']
+elif qtype == "多选":
+pool = [q for q in questions if q['qtype']=='multiple']
+else:
+pool = questions.copy()
+if shuffle:
+random.shuffle(pool)
+pool = pool[:count]
+st.session_state['pool'] = pool
+st.session_state['index'] = 0
+st.session_state['correct'] = 0
+st.session_state['history'] = []
+st.session_state['awaiting_next'] = False
+
+# ---------- 当前题目 ----------
 
 if 'pool' in st.session_state and st.session_state.get('index', 0) < len(st.session_state['pool']):
 q = st.session_state['pool'][st.session_state['index']]
@@ -53,25 +56,20 @@ choices.sort()
 if not choices:
     st.warning("本题没有选项数据，请检查题库。")
 else:
-    # 显示选择框
     if q['qtype'] == 'multiple':
         selected = st.multiselect("请选择（多选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
     else:
         selected = st.radio("请选择（单选）", options=choices, format_func=lambda x: f"{x}. {opts[x]}")
-    
-    # 提交按钮
+
     if st.button("提交答案") and selected:
         user = ','.join(sorted([s.strip().upper() for s in selected])) if isinstance(selected, list) else (selected.strip().upper() if isinstance(selected, str) else '')
         corr = q.get('answer','').upper().replace('，',',')
         user_set = set([x for x in user.split(',') if x])
         corr_set = set([x for x in corr.split(',') if x])
         is_correct = user_set == corr_set
-        
-        # 更新历史和分数
-        if 'history' not in st.session_state:
-            st.session_state['history'] = []
+
         st.session_state['history'].append({'id': q['id'], 'question': q['question'], 'user': user, 'correct': corr, 'is_correct': is_correct})
-        
+
         if is_correct:
             st.session_state['correct'] += 1
             st.success("✔ 回答正确！自动进入下一题")
@@ -79,10 +77,8 @@ else:
             st.experimental_rerun()
         else:
             st.error(f"✖ 回答错误！正确答案是: {corr}")
-            # 设置标志表示“等待用户点击下一题”
             st.session_state['awaiting_next'] = True
 
-    # 如果上次答错并且等待下一题
     if st.session_state.get('awaiting_next', False):
         if st.button("下一题"):
             st.session_state['index'] += 1
@@ -90,7 +86,7 @@ else:
             st.experimental_rerun()
 ```
 
-# 全部完成
+# ---------- 全部完成 ----------
 
 if 'pool' in st.session_state and st.session_state.get('index', 0) >= len(st.session_state['pool']):
 st.success("已完成全部题目！")
@@ -107,3 +103,4 @@ for key in ['pool','index','correct','history','awaiting_next']:
 if key in st.session_state:
 del st.session_state[key]
 st.experimental_rerun()
+
