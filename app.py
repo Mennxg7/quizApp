@@ -1,7 +1,7 @@
 import streamlit as st
 import random, json, os
 
-BASE_DIR = os.path.dirname(**file**)
+BASE_DIR = os.path.dirname(__file__)
 QUESTIONS_FILE = os.path.join(BASE_DIR, "questions.json")
 
 @st.cache_data
